@@ -29,6 +29,7 @@ module.exports = function (controller) {
         await bot.reply(message, {
             text: 'List of commands:\n' +
                 '* find <genre>[,<genre>] <location>' +
+                '* '
         });
     });
 
