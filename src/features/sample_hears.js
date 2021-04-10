@@ -29,7 +29,9 @@ module.exports = function (controller) {
         await bot.reply(message, {
             text: 'List of commands:\n' +
                 '* find <genre>[,<genre>] <location>' +
-                '* '
+                '* list genres: Lists all known film genres associated with a film festival' +
+                '* list locations: Lists all possible locations hosting a film festival' +
+                '* help'
         });
     });
 
