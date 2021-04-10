@@ -5,7 +5,13 @@ const replyFind = (festivals) => {
     let replyText = "Search Results:\n";
 
     festivals.forEach((festival) => {
-        replyText += `* [${festival.name}](${festival.url}), ${festival.city}, ${festival.country}\n`;
+        if (festival.city !== "") {
+            replyText += `* [${festival.name}](${festival.url}), ${festival.city}, ${festival.country}\n`;
+        }
+        else {
+            replyText += `* [${festival.name}](${festival.url}), Travelling/Online Festival\n`;
+        }
+
     });
 
     return replyText;
