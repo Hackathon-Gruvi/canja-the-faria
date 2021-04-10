@@ -1,11 +1,13 @@
 const database = require('../res/database.json');
 
-export const findFestival = (message) => {
-    const keywords = message.split(",");
+const findFestival = (genres) => {
+    const keywords = genres.split(",");
+
+    console.log(keywords);
 
     const results = database.filter((festival) => {
-        for (let [_index, word] in keywords) {
-            if (festival.notes.includes(word)) {
+        for (let i in keywords) {
+            if (festival.notes.includes(keywords[i])) {
                 return true;
             }
         };
@@ -14,4 +16,8 @@ export const findFestival = (message) => {
     });
 
     return results;
+};
+
+module.exports = {
+    findFestival
 };

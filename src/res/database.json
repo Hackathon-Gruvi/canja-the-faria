@@ -1,20 +1,4916 @@
 [
     {
-        "name": "teste1",
-        "url": "https://www.bananas.com",
-        "est": "2016",
-        "city": "Porto",
-        "country": "Portugal",
-        "type": "National",
-        "notes": "A horror festival"
+        "name": "Africa International Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Africa_International_Film_Festival",
+        "est": "2010",
+        "city": "Calabar",
+        "country": "Nigeria",
+        "type": "International",
+        "notes": ""
     },
     {
-        "name": "teste2",
-        "url": "https://www.kiwis.com",
-        "est": "2014",
-        "city": "Gaia",
-        "country": "Portugal",
+        "name": "Alexandria International Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Alexandria_International_Film_Festival",
+        "est": "1984",
+        "city": "Alexandria",
+        "country": "Egypt",
+        "type": "International",
+        "notes": ""
+    },
+    {
+        "name": "Amakula International Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Amakula_International_Film_Festival",
+        "est": "2004",
+        "city": "Kampala",
+        "country": "Uganda",
+        "type": "International",
+        "notes": ""
+    },
+    {
+        "name": "Cabo Verde International Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Cabo_Verde_International_Film_Festival",
+        "est": "2010\n",
+        "city": "Sal Island",
+        "country": "Cape Verde",
+        "type": "National\n",
+        "notes": "[1][2]"
+    },
+    {
+        "name": "Cairo International Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Cairo_International_Film_Festival",
+        "est": "1976",
+        "city": "Cairo",
+        "country": "Egypt",
+        "type": "International",
+        "notes": ""
+    },
+    {
+        "name": "Cairo International Women's Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Cairo_International_Women%27s_Film_Festival",
+        "est": "2008",
+        "city": "Cairo",
+        "country": "Egypt",
+        "type": "International",
+        "notes": "Introducing the works of female filmmakers."
+    },
+    {
+        "name": "Carthage Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Carthage_Film_Festival",
+        "est": "1966",
+        "city": "Carthage",
+        "country": "Tunisia",
+        "type": "Regional",
+        "notes": "Features films directed by those of African or Middle Eastern nationality."
+    },
+    {
+        "name": "Cinekambiya International Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Cinekambiya_International_Film_Festival",
+        "est": "2015",
+        "city": "BanjulBrikama",
+        "country": "Gambia",
+        "type": "Regional",
+        "notes": "Features films made in indigenous languages."
+    },
+    {
+        "name": "Dockanema",
+        "url": "https://en.wikipedia.org/wiki/Dockanema",
+        "est": "2006",
+        "city": "Maputo",
+        "country": "Mozambique",
+        "type": "Special interest",
+        "notes": "Annual documentary film festival."
+    },
+    {
+        "name": "Durban International Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Durban_International_Film_Festival",
+        "est": "1979",
+        "city": "Durban",
+        "country": "South Africa",
+        "type": "International",
+        "notes": "Largest film festival in Southern Africa. Most of the screenings are African premieres."
+    },
+    {
+        "name": "El Gouna Film Festival",
+        "url": "https://en.wikipedia.org/wiki/El_Gouna_Film_Festival",
+        "est": "2017",
+        "city": "El Gouna",
+        "country": "Egypt",
+        "type": "International",
+        "notes": ""
+    },
+    {
+        "name": "Encounters South African International Documentary Festival",
+        "url": "https://en.wikipedia.org/wiki/Encounters_Festival_South_Africa",
+        "est": "1999",
+        "city": "Cape Town",
+        "country": "South Africa",
+        "type": "International",
+        "notes": "Annual documentary film festival."
+    },
+    {
+        "name": "International Arab Film Festival",
+        "url": "https://en.wikipedia.org/wiki/International_Arab_Film_Festival",
+        "est": "1976",
+        "city": "Wahran",
+        "country": "Algeria",
+        "type": "International",
+        "notes": ""
+    },
+    {
+        "name": "International Festival of Cinema and Audiovisual of Burundi",
+        "url": "https://en.wikipedia.org/wiki/International_Festival_of_Cinema_and_Audiovisual_of_Burundi",
+        "est": "2009",
+        "city": "Bujumbura",
+        "country": "Burundi",
+        "type": "International",
+        "notes": ""
+    },
+    {
+        "name": "International Film Festival of Marrakech",
+        "url": "https://en.wikipedia.org/wiki/International_Film_Festival_of_Marrakech",
+        "est": "2001",
+        "city": "Marrakech",
+        "country": "Morocco",
+        "type": "International",
+        "notes": ""
+    },
+    {
+        "name": "Lights, Camera, Africa!",
+        "url": "https://en.wikipedia.org/wiki/Lights,_Camera,_Africa!",
+        "est": "2011",
+        "city": "Lagos",
+        "country": "Nigeria",
+        "type": "International",
+        "notes": ""
+    },
+    {
+        "name": "Luxor African Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Luxor_African_Film_Festival",
+        "est": "2012",
+        "city": "Luxor",
+        "country": "Egypt",
+        "type": "International",
+        "notes": ""
+    },
+    {
+        "name": "Out In Africa South African Gay and Lesbian Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Out_In_Africa_South_African_Gay_and_Lesbian_Film_Festival",
+        "est": "1994",
+        "city": "Cape TownJohannesburg",
+        "country": "South Africa",
+        "type": "International",
+        "notes": "Gay and lesbian film festival."
+    },
+    {
+        "name": "Panafrican Film and Television Festival of Ouagadougou",
+        "url": "https://en.wikipedia.org/wiki/Panafrican_Film_and_Television_Festival_of_Ouagadougou",
+        "est": "1969",
+        "city": "Ouagadougou",
+        "country": "Burkina Faso",
+        "type": "international",
+        "notes": "The largest African film festival."
+    },
+    {
+        "name": "Pearl International Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Pearl_International_Film_Festival",
+        "est": "2011",
+        "city": "Kampala",
+        "country": "Uganda",
+        "type": "International",
+        "notes": ""
+    },
+    {
+        "name": "Rencontres du Film Court Madagascar",
+        "url": "https://en.wikipedia.org/wiki/Rencontres_du_Film_Court_Madagascar",
+        "est": "2006",
+        "city": "Antananarivo",
+        "country": "Madagascar",
+        "type": "Pan-African/regional",
+        "notes": "The only film festival in Madagascar."
+    },
+    {
+        "name": "Rwanda Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Rwanda_Film_Festival",
+        "est": "2005",
+        "city": "Kigali",
+        "country": "Rwanda",
+        "type": "International",
+        "notes": ""
+    },
+    {
+        "name": "Sahara International Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Sahara_International_Film_Festival",
+        "est": "2003",
+        "city": "Sahrawi refugee camps",
+        "country": "Sahrawi Arab Democratic RepublicAlgeria",
+        "type": "International",
+        "notes": "The only film festival in the world held in a refugee camp."
+    },
+    {
+        "name": "Silwerskerm Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Silwerskerm_Film_Festival",
+        "est": "2010",
+        "city": "Camps Bay",
+        "country": "South Africa",
         "type": "National",
-        "notes": "A thriller/comedy festival"
+        "notes": "The only Afrikaans film festival in the world."
+    },
+    {
+        "name": "Uganda Film Festival Awards",
+        "url": "https://en.wikipedia.org/wiki/Uganda_Film_Festival_Awards",
+        "est": "2013",
+        "city": "Kampala",
+        "country": "Uganda",
+        "type": "National",
+        "notes": ""
+    },
+    {
+        "name": "Zanzibar International Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Zanzibar_International_Film_Festival",
+        "est": "1997",
+        "city": "Zanzibar City",
+        "country": "Tanzania",
+        "type": "International",
+        "notes": "An annual film, music and arts festival."
+    },
+    {
+        "name": "Zimbabwe International Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Zimbabwe_International_Film_Festival",
+        "est": "1997",
+        "city": "Harare",
+        "country": "Zimbabwe",
+        "type": "International",
+        "notes": ""
+    },
+    {
+        "name": "Abhimani Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Abhimani_Film_Festival",
+        "est": "2006",
+        "city": "Colombo",
+        "country": "Sri Lanka",
+        "type": "International",
+        "notes": "Also known as Celluloid Rainbows, the Festival is the oldest LGBT+ Film Festival in the South Asian region.[3]"
+    },
+    {
+        "name": "Abu Dhabi Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Abu_Dhabi_Film_Festival",
+        "est": "2007",
+        "city": "Abu Dhabi",
+        "country": "United Arab Emirates",
+        "type": "International",
+        "notes": "Annual film festival showcasing films from the Arab world alongside international works."
+    },
+    {
+        "name": "Alpavirama South Asian Short Film Festival (Alpavirama)[4]",
+        "url": "https://en.wikipedia.org/wiki/Alpavirama_South_Asian_Short_Film_Festival_(Alpavirama)",
+        "est": "2011",
+        "city": "Ahmedabad",
+        "country": "India",
+        "type": "South Asian",
+        "notes": "For short films from young filmmakers of southeast Asia."
+    },
+    {
+        "name": "Ambarnath Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Ambarnath_Film_Festival",
+        "est": "2015",
+        "city": "Ambarnath",
+        "country": "India",
+        "type": "Regional",
+        "notes": "An annual film festival showcasing Marathi Films."
+    },
+    {
+        "name": "Animation Nation",
+        "url": "https://en.wikipedia.org/wiki/Animation_Nation",
+        "est": "2004",
+        "city": "Singapore",
+        "country": "Singapore",
+        "type": "Animation",
+        "notes": "An annual film festival showcasing international and local animation works."
+    },
+    {
+        "name": "ARY Film Awards",
+        "url": "https://en.wikipedia.org/wiki/ARY_Film_Awards",
+        "est": "2014",
+        "city": "Karachi",
+        "country": "Pakistan",
+        "type": "International",
+        "notes": ""
+    },
+    {
+        "name": "Asia Pacific Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Asia_Pacific_Film_Festival",
+        "est": "1954",
+        "city": "",
+        "country": "",
+        "type": "Regional",
+        "notes": "First held in Tokyo, rotated annually."
+    },
+    {
+        "name": "Asian Queer Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Asian_Queer_Film_Festival",
+        "est": "2007",
+        "city": "Tokyo",
+        "country": "Japan",
+        "type": "East Asian",
+        "notes": "Annual Asian lesbian, gay, bisexual and transgender film festival."
+    },
+    {
+        "name": "Balinale",
+        "url": "https://en.wikipedia.org/wiki/Balinale",
+        "est": "2007",
+        "city": "Kuta",
+        "country": "Indonesia",
+        "type": "International",
+        "notes": "Annual Film Festival for Independent films from all over the world."
+    },
+    {
+        "name": "Bangalore Queer Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Bangalore_Queer_Film_Festival",
+        "est": "2008",
+        "city": "Bangalore",
+        "country": "India",
+        "type": "International",
+        "notes": "Annual lesbian, gay, bisexual and transgender film festival."
+    },
+    {
+        "name": "Bangkok Gay and Lesbian Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Bangkok_Gay_and_Lesbian_Film_Festival",
+        "est": "2015",
+        "city": "Bangkok",
+        "country": "Thailand",
+        "type": "International",
+        "notes": "Annual lesbian, gay, bisexual and transgender film festival. (Inactive since 2017)"
+    },
+    {
+        "name": "Bangkok International Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Bangkok_International_Film_Festival",
+        "est": "2003",
+        "city": "Bangkok",
+        "country": "Thailand",
+        "type": "International",
+        "notes": "(Inactive since 2008)"
+    },
+    {
+        "name": "Beijing College Student Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Beijing_College_Student_Film_Festival",
+        "est": "1993",
+        "city": "Beijing",
+        "country": "China",
+        "type": "",
+        "notes": ""
+    },
+    {
+        "name": "Beijing Independent Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Beijing_Independent_Film_Festival",
+        "est": "2004",
+        "city": "Beijing",
+        "country": "China",
+        "type": "International",
+        "notes": "Independent films and documentaries."
+    },
+    {
+        "name": "Beijing International Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Beijing_International_Film_Festival",
+        "est": "2011",
+        "city": "Beijing",
+        "country": "China",
+        "type": "International",
+        "notes": ""
+    },
+    {
+        "name": "Beijing Queer Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Beijing_Queer_Film_Festival",
+        "est": "2001",
+        "city": "Beijing",
+        "country": "China",
+        "type": "International",
+        "notes": "China's first and longest-running annual LGBT film festival."
+    },
+    {
+        "name": "Bengaluru International Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Bengaluru_International_Film_Festival",
+        "est": "2006",
+        "city": "Bangalore",
+        "country": "India",
+        "type": "International",
+        "notes": ""
+    },
+    {
+        "name": "Brahmaputra Valley Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Brahmaputra_Valley_Film_Festival",
+        "est": "2013",
+        "city": "Guwahati",
+        "country": "India",
+        "type": "International",
+        "notes": "Held annually, focuses on promoting Northeast India cinema"
+    },
+    {
+        "name": "Bring Your Own Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Bring_Your_Own_Film_Festival",
+        "est": "2004",
+        "city": "Puri",
+        "country": "India",
+        "type": "Special interest",
+        "notes": ""
+    },
+    {
+        "name": "Bucheon International Fantastic Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Bucheon_International_Fantastic_Film_Festival",
+        "est": "1997",
+        "city": "Bucheon",
+        "country": "South Korea",
+        "type": "International",
+        "notes": "Held annually in July, focuses on horror, thriller, mystery, and fantasy films."
+    },
+    {
+        "name": "Busan International Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Busan_International_Film_Festival",
+        "est": "1996",
+        "city": "Busan",
+        "country": "South Korea",
+        "type": "International",
+        "notes": "First film festival in Korea, focusing on new films and first-time directors."
+    },
+    {
+        "name": "Changchun Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Changchun_Film_Festival",
+        "est": "1992",
+        "city": "Changchun",
+        "country": "China",
+        "type": "International, regional",
+        "notes": "Held biennially."
+    },
+    {
+        "name": "Chennai International Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Chennai_International_Film_Festival",
+        "est": "2003",
+        "city": "Chennai International Film Festival",
+        "country": "India",
+        "type": "International",
+        "notes": "Held annually."
+    },
+    {
+        "name": "Children's International Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Children%27s_International_Film_Festival",
+        "est": "2014",
+        "city": "Dubai",
+        "country": "United Arab Emirates",
+        "type": "International",
+        "notes": "Annual film festival for children, held in UAE."
+    },
+    {
+        "name": "Cinema Verite (The Annual Iran International Documentary Film Festival)",
+        "url": "https://en.wikipedia.org/wiki/Cinema_Verite_(The_Annual_Iran_International_Documentary_Film_Festival)",
+        "est": "2007",
+        "city": "Tehran",
+        "country": "Iran",
+        "type": "International",
+        "notes": "Held annually."
+    },
+    {
+        "name": "Cinemalaya Philippine Independent Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Cinemalaya_Philippine_Independent_Film_Festival",
+        "est": "2005",
+        "city": "Manila",
+        "country": "Philippines",
+        "type": "National",
+        "notes": "Held annually, it showcases independent films and shorts."
+    },
+    {
+        "name": "Cinemanila International Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Cinemanila_International_Film_Festival",
+        "est": "1999",
+        "city": "Manila",
+        "country": "Philippines",
+        "type": "International",
+        "notes": "Held annually."
+    },
+    {
+        "name": "Cinemela Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Cinemela_Film_Festival",
+        "est": "2006",
+        "city": "New Delhi",
+        "country": "India",
+        "type": "International",
+        "notes": "Held annually."
+    },
+    {
+        "name": "Development Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Development_Film_Festival",
+        "est": "2008",
+        "city": "Madurai",
+        "country": "India",
+        "type": "International",
+        "notes": "Films about the development of the poor and vulnerable communities."
+    },
+    {
+        "name": "Dhaka International Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Dhaka_International_Film_Festival",
+        "est": "1992",
+        "city": "Dhaka",
+        "country": "Bangladesh",
+        "type": "International",
+        "notes": "A biennial film festival."
+    },
+    {
+        "name": "Dharamshala International Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Dharamshala_International_Film_Festival",
+        "est": "2012",
+        "city": "Dharamshala",
+        "country": "India",
+        "type": "International",
+        "notes": "An international film festival."
+    },
+    {
+        "name": "Didor International Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Didor_International_Film_Festival",
+        "est": "2004",
+        "city": "Dushanbe",
+        "country": "Tajikistan",
+        "type": "International",
+        "notes": ""
+    },
+    {
+        "name": "1st Diorama International Film Festival & Market",
+        "url": "https://en.wikipedia.org/wiki/1st_Diorama_International_Film_Festival_%26_Market",
+        "est": "2019",
+        "city": "Delhi",
+        "country": "India",
+        "type": "International",
+        "notes": "An international film festival and film bazaar."
+    },
+    {
+        "name": "Dubai International Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Dubai_International_Film_Festival",
+        "est": "2004",
+        "city": "Dubai",
+        "country": "United Arab Emirates",
+        "type": "International",
+        "notes": ""
+    },
+    {
+        "name": "Duhok International Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Duhok_International_Film_Festival",
+        "est": "2011",
+        "city": "Duhok",
+        "country": "Iraq",
+        "type": "International",
+        "notes": "Featuring films from Kurdish regions as well as world cinema."
+    },
+    {
+        "name": "Fajr International Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Fajr_International_Film_Festival",
+        "est": "1982",
+        "city": "Tehran",
+        "country": "Iran",
+        "type": "International",
+        "notes": "Held every February."
+    },
+    {
+        "name": "Filmsaaz",
+        "url": "https://en.wikipedia.org/wiki/Filmsaaz",
+        "est": "2008",
+        "city": "Aligarh, Uttar Pradesh",
+        "country": "India",
+        "type": "International",
+        "notes": "International short film festival held since 2008."
+    },
+    {
+        "name": "FreedomFilmFest",
+        "url": "https://en.wikipedia.org/wiki/FreedomFilmFest",
+        "est": "2003",
+        "city": "Kuala LumpurPenangJohor BahruSarawak",
+        "country": "Malaysia",
+        "type": "International",
+        "notes": "Human rights film festival held annually."
+    },
+    {
+        "name": "Golden Horse Film Festival and Awards",
+        "url": "https://en.wikipedia.org/wiki/Golden_Horse_Film_Festival_and_Awards",
+        "est": "1962",
+        "city": "Taipei",
+        "country": "Taiwan",
+        "type": "Regional",
+        "notes": "The annual, month-long festival, featuring Chinese-language and Asian films."
+    },
+    {
+        "name": "Guangzhou International Documentary Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Guangzhou_International_Documentary_Film_Festival",
+        "est": "2003",
+        "city": "Guangzhou",
+        "country": "China",
+        "type": "International",
+        "notes": ""
+    },
+    {
+        "name": "Haifa International Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Haifa_International_Film_Festival",
+        "est": "1983",
+        "city": "Haifa",
+        "country": "Israel",
+        "type": "International",
+        "notes": "Held annually on Sukkot, it is Israel's first film festival."
+    },
+    {
+        "name": "Hanoi International Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Hanoi_International_Film_Festival",
+        "est": "2010",
+        "city": "Hanoi",
+        "country": "Vietnam",
+        "type": "International",
+        "notes": "Held biennially."
+    },
+    {
+        "name": "Hiroshima International Animation Festival",
+        "url": "https://en.wikipedia.org/wiki/Hiroshima_International_Animation_Festival",
+        "est": "1985",
+        "city": "Hiroshima",
+        "country": "Japan",
+        "type": "International",
+        "notes": "ASIFA"
+    },
+    {
+        "name": "Hong Kong International Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Hong_Kong_International_Film_Festival",
+        "est": "1977",
+        "city": "Hong Kong",
+        "country": "Hong Kong",
+        "type": "International",
+        "notes": ""
+    },
+    {
+        "name": "Hong Kong Lesbian & Gay Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Hong_Kong_Lesbian_%26_Gay_Film_Festival",
+        "est": "1989",
+        "city": "Hong Kong",
+        "country": "Hong Kong",
+        "type": "International",
+        "notes": "Asia's first and longest-running LGBT film festival."
+    },
+    {
+        "name": "Hyderabad Bengali Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Hyderabad_Bengali_Film_Festival",
+        "est": "2014",
+        "city": "",
+        "country": "India",
+        "type": "Regional",
+        "notes": "Annual film festival featuring works from the Bengali film industry."
+    },
+    {
+        "name": "Hyderabad International Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Hyderabad_International_Film_Festival",
+        "est": "2007",
+        "city": "Hyderabad",
+        "country": "India",
+        "type": "International",
+        "notes": ""
+    },
+    {
+        "name": "ifva: Incubator for Film and Visual media in Asia",
+        "url": "https://en.wikipedia.org/wiki/Ifva:_Incubator_for_Film_and_Visual_media_in_Asia",
+        "est": "1993",
+        "city": "Hong Kong",
+        "country": "Hong Kong",
+        "type": "International",
+        "notes": "Formerly known as the Hong Kong Independent Short Film and Video Awards"
+    },
+    {
+        "name": "Image Forum Festival",
+        "url": "https://en.wikipedia.org/wiki/Image_Forum_Festival",
+        "est": "1987",
+        "city": "TokyoKyotoYokohama",
+        "country": "Japan",
+        "type": "International",
+        "notes": "Japan's largest art films festival."
+    },
+    {
+        "name": "Indian Film Festival Japan",
+        "url": "https://en.wikipedia.org/wiki/Indian_Film_Festival_Japan",
+        "est": "2012",
+        "city": "Japan",
+        "country": "Japan",
+        "type": "Indian and Indian themes",
+        "notes": "Films of India and Japan."
+    },
+    {
+        "name": "Indonesian Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Indonesian_Film_Festival",
+        "est": "1955",
+        "city": "Jakarta",
+        "country": "Indonesia",
+        "type": "National",
+        "notes": "Held intermittently to exhibit nominees for the Citra Award."
+    },
+    {
+        "name": "International Film Festival of India",
+        "url": "https://en.wikipedia.org/wiki/International_Film_Festival_of_India",
+        "est": "1952",
+        "city": "Goa",
+        "country": "India",
+        "type": "International",
+        "notes": "First held in 1952, since 1975 it is an annual event."
+    },
+    {
+        "name": "International Film Festival of Kerala",
+        "url": "https://en.wikipedia.org/wiki/International_Film_Festival_of_Kerala",
+        "est": "1996",
+        "city": "Thiruvananthapuram",
+        "country": "India",
+        "type": "International, Regional",
+        "notes": "Held annually in November or December."
+    },
+    {
+        "name": "Jaipur International Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Jaipur_International_Film_Festival",
+        "est": "2009",
+        "city": "Jaipur",
+        "country": "India",
+        "type": "International",
+        "notes": "Held annually in January or February"
+    },
+    {
+        "name": "Japanese Film Festival (Singapore)",
+        "url": "https://en.wikipedia.org/wiki/Japanese_Film_Festival_(Singapore)",
+        "est": "1999",
+        "city": "Singapore",
+        "country": "Singapore",
+        "type": "Japanese",
+        "notes": "Annual film festival devoted to Japanese films."
+    },
+    {
+        "name": "Jecheon Intl Music & Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Jecheon_Intl_Music_%26_Film_Festival",
+        "est": "2005",
+        "city": "Jecheon",
+        "country": "South Korea",
+        "type": "International",
+        "notes": "A music-themed film festival."
+    },
+    {
+        "name": "Jeonju International Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Jeonju_International_Film_Festival",
+        "est": "2000",
+        "city": "Jeonju",
+        "country": "South Korea",
+        "type": "International",
+        "notes": "Focuses on digital, independent, and art films."
+    },
+    {
+        "name": "Jerusalem Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Jerusalem_Film_Festival",
+        "est": "1984",
+        "city": "Jerusalem",
+        "country": "Israel",
+        "type": "International",
+        "notes": "Annual festival featuring films from all over the world."
+    },
+    {
+        "name": "Kara Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Kara_Film_Festival",
+        "est": "1992",
+        "city": "Karachi",
+        "country": "Pakistan",
+        "type": "International",
+        "notes": ""
+    },
+    {
+        "name": "KASHISH Mumbai International Queer Film Festival",
+        "url": "https://en.wikipedia.org/wiki/KASHISH_Mumbai_International_Queer_Film_Festival",
+        "est": "2010",
+        "city": "Mumbai",
+        "country": "India",
+        "type": "International, Regional",
+        "notes": "Held annually in May; showcases Indian and international LGBTQ films."
+    },
+    {
+        "name": "Kolkata International Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Kolkata_International_Film_Festival",
+        "est": "1995",
+        "city": "Kolkata",
+        "country": "India",
+        "type": "International",
+        "notes": "Annual festival featuring films from all over the world since 1995"
+    },
+    {
+        "name": "Korea Queer Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Korea_Queer_Film_Festival",
+        "est": "2001",
+        "city": "Seoul",
+        "country": "South Korea",
+        "type": "International",
+        "notes": "Annual lesbian, gay, bisexual and transgender film festival."
+    },
+    {
+        "name": "Kuala Lumpur International Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Kuala_Lumpur_International_Film_Festival",
+        "est": "2007",
+        "city": "Kuala Lumpur",
+        "country": "Malaysia",
+        "type": "International",
+        "notes": "Successor to the Kuala Lumpur World Film Festival."
+    },
+    {
+        "name": "Lethal Lesbian",
+        "url": "https://en.wikipedia.org/wiki/Lethal_Lesbian",
+        "est": "2008\n",
+        "city": "Tel Aviv",
+        "country": "Israel",
+        "type": "International\n",
+        "notes": "Festival screening independent films by and about women who love women"
+    },
+    {
+        "name": "Luang Prabang Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Luang_Prabang_Film_Festival",
+        "est": "2010\n",
+        "city": "Luang Prabang",
+        "country": "Laos",
+        "type": "International, Southeast Asian\n",
+        "notes": "Annual festival, which showcases films from Association of Southeast Asian Nations-member countries."
+    },
+    {
+        "name": "Lux Style Awards",
+        "url": "https://en.wikipedia.org/wiki/Lux_Style_Awards",
+        "est": "2001",
+        "city": "Karachi",
+        "country": "Pakistan",
+        "type": "National",
+        "notes": "Lux Style Awards"
+    },
+    {
+        "name": "Macau International Movie Festival",
+        "url": "https://en.wikipedia.org/wiki/Macau_International_Movie_Festival",
+        "est": "2009",
+        "city": "Macau",
+        "country": "China",
+        "type": "International",
+        "notes": ""
+    },
+    {
+        "name": "Malaysia Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Malaysia_Film_Festival",
+        "est": "1980",
+        "city": "",
+        "country": "Malaysia",
+        "type": "National",
+        "notes": "Malaysia's equivalent to the Academy Awards."
+    },
+    {
+        "name": "Metro Manila Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Metro_Manila_Film_Festival",
+        "est": "1975",
+        "city": "Manila",
+        "country": "Philippines",
+        "type": "National",
+        "notes": "Focuses on Filipino films."
+    },
+    {
+        "name": "Mumbai International Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Mumbai_International_Film_Festival",
+        "est": "1990",
+        "city": "Mumbai",
+        "country": "India",
+        "type": "International",
+        "notes": "Focuses on documentary, short, and animation films."
+    },
+    {
+        "name": "Mumbai Women's International Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Mumbai_Women%27s_International_Film_Festival",
+        "est": "2013",
+        "city": "Mumbai",
+        "country": "India",
+        "type": "International",
+        "notes": "Annual film festival featuring films made by women directors and technicians."
+    },
+    {
+        "name": "Minikino Film Week",
+        "url": "https://en.wikipedia.org/wiki/Minikino_Film_Week",
+        "est": "2015",
+        "city": "Bali",
+        "country": "Indonesia",
+        "type": "Indonesia, Southeast Asia and international",
+        "notes": "International Short Film Festival in Bali - Indonesia, Focuses on Short Film. Held annually in October."
+    },
+    {
+        "name": "Nigar Awards",
+        "url": "https://en.wikipedia.org/wiki/Nigar_Awards",
+        "est": "1957",
+        "city": "Karachi",
+        "country": "Pakistan",
+        "type": "International",
+        "notes": ""
+    },
+    {
+        "name": "Osian's Cinefan Festival of Asian and Arab Cinema",
+        "url": "https://en.wikipedia.org/wiki/Osian%27s_Cinefan_Festival_of_Asian_and_Arab_Cinema",
+        "est": "1999",
+        "city": "New Delhi",
+        "country": "India",
+        "type": "Regional",
+        "notes": ""
+    },
+    {
+        "name": "Patna Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Patna_Film_Festival",
+        "est": "2006",
+        "city": "Patna",
+        "country": "India",
+        "type": "International",
+        "notes": "International film festival."
+    },
+    {
+        "name": "Pride International Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Pride_International_Film_Festival",
+        "est": "2004",
+        "city": "Manila",
+        "country": "Philippines",
+        "type": "International",
+        "notes": "Annual lesbian, gay, bisexual and transgender film festival."
+    },
+    {
+        "name": "Pyongyang International Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Pyongyang_International_Film_Festival",
+        "est": "1987",
+        "city": "Pyongyang",
+        "country": "North Korea",
+        "type": "International",
+        "notes": "Biennial"
+    },
+    {
+        "name": "Q! Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Q!_Film_Festival",
+        "est": "2002",
+        "city": "Jakarta",
+        "country": "Indonesia",
+        "type": "Asian and international",
+        "notes": "One of Asia's largest annual LGBT film festivals."
+    },
+    {
+        "name": "QCinema International Film Festival",
+        "url": "https://en.wikipedia.org/wiki/QCinema_International_Film_Festival",
+        "est": "2013",
+        "city": "Quezon City",
+        "country": "Philippines",
+        "type": "National and international",
+        "notes": "Annual"
+    },
+    {
+        "name": "Rainbow Reel Tokyo",
+        "url": "https://en.wikipedia.org/wiki/Rainbow_Reel_Tokyo",
+        "est": "1992",
+        "city": "Tokyo",
+        "country": "Japan",
+        "type": "International",
+        "notes": "Japan's oldest LGBT+ film festival. 'Rainbow Reel Tokyo' is the new official name for the 'Tokyo International Lesbian & Gay Film Festival' (since 2016)."
+    },
+    {
+        "name": "Shanghai International Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Shanghai_International_Film_Festival",
+        "est": "1993",
+        "city": "Shanghai",
+        "country": "China",
+        "type": "International",
+        "notes": "Mainland China's largest film festival."
+    },
+    {
+        "name": "ShanghaiPRIDE Film Festival",
+        "url": "https://en.wikipedia.org/wiki/ShanghaiPRIDE_Film_Festival",
+        "est": "2015",
+        "city": "Shanghai",
+        "country": "China",
+        "type": "International",
+        "notes": "Annual lesbian, gay, bisexual and transgender film festival."
+    },
+    {
+        "name": "Shanghai Queer Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Shanghai_Queer_Film_Festival",
+        "est": "2017",
+        "city": "Shanghai",
+        "country": "China",
+        "type": "Chinese (English subtitling)",
+        "notes": "Volunteer-run, not-for-profit LGBT+ film festival highlighting the films of Chinese filmmakers."
+    },
+    {
+        "name": "Singapore International Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Singapore_International_Film_Festival",
+        "est": "1987",
+        "city": "Singapore",
+        "country": "Singapore",
+        "type": "International",
+        "notes": "Singapore's longest running film festival, focusing on Asian works.[5]"
+    },
+    {
+        "name": "siffcy",
+        "url": "https://en.wikipedia.org/wiki/Siffcy",
+        "est": "2015",
+        "city": "New Delhi",
+        "country": "India",
+        "type": "International",
+        "notes": "Held annually in December."
+    },
+    {
+        "name": "Syne International Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Syne_International_Film_Festival",
+        "est": "2001",
+        "city": "Cochin",
+        "country": "India",
+        "type": "International",
+        "notes": "Held annually in May."
+    },
+    {
+        "name": "Taipei Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Taipei_Film_Festival",
+        "est": "1998",
+        "city": "Taipei",
+        "country": "Taiwan",
+        "type": "International",
+        "notes": ""
+    },
+    {
+        "name": "Taiwan International Documentary Festival",
+        "url": "https://en.wikipedia.org/wiki/Taiwan_International_Documentary_Festival",
+        "est": "1998",
+        "city": "Taipei",
+        "country": "Taiwan",
+        "type": "International",
+        "notes": "Documentary film festival."
+    },
+    {
+        "name": "Taiwan International Queer Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Taiwan_International_Queer_Film_Festival",
+        "est": "2014",
+        "city": "Taipei",
+        "country": "Taiwan",
+        "type": "International",
+        "notes": "Taiwan's first and only annual LGBT film festival."
+    },
+    {
+        "name": "Thai Short Film and Video Festival",
+        "url": "https://en.wikipedia.org/wiki/Thai_Short_Film_and_Video_Festival",
+        "est": "1997",
+        "city": "Bangkok",
+        "country": "Thailand",
+        "type": "Special interest",
+        "notes": "Featuring short films, primarily by Thai independent filmmakers."
+    },
+    {
+        "name": "Thrissur International Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Thrissur_International_Film_Festival",
+        "est": "2006",
+        "city": "Thrissur",
+        "country": "India",
+        "type": "International",
+        "notes": "Second largest film festival in Kerala state."
+    },
+    {
+        "name": "Tigerland India Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Tigerland_India_Film_Festival",
+        "est": "2014",
+        "city": "Bhopal",
+        "country": "India",
+        "type": "International",
+        "notes": "Annual wildlife and environmental film festival."
+    },
+    {
+        "name": "Tokyo Filmex",
+        "url": "https://en.wikipedia.org/wiki/Tokyo_Filmex",
+        "est": "2000",
+        "city": "Tokyo",
+        "country": "Japan",
+        "type": "International",
+        "notes": "Organized annually by Office Kitano."
+    },
+    {
+        "name": "Tokyo International Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Tokyo_International_Film_Festival",
+        "est": "1985",
+        "city": "Tokyo",
+        "country": "Japan",
+        "type": "International",
+        "notes": ""
+    },
+    {
+        "name": "Underneath the Radar Documentary Festival",
+        "url": "https://en.wikipedia.org/wiki/Underneath_the_Radar_Documentary_Festival",
+        "est": "2006",
+        "city": "Singapore",
+        "country": "Singapore",
+        "type": "Special interest",
+        "notes": "Screens independent documentaries on social, economic, and environmental issues."
+    },
+    {
+        "name": "ViBGYOR International Short and Documentary Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Vibgyor_Film_Festival",
+        "est": "2006",
+        "city": "Thrissur",
+        "country": "India",
+        "type": "Special interest",
+        "notes": "Short films and documentaries on issues and people's movements with an activist outlook."
+    },
+    {
+        "name": "Vietnam Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Vietnam_Film_Festival",
+        "est": "1970",
+        "city": "",
+        "country": "Vietnam",
+        "type": "National, Vietnamese",
+        "notes": ""
+    },
+    {
+        "name": "Wathann Film Fest",
+        "url": "https://en.wikipedia.org/wiki/Wathann_Film_Fest",
+        "est": "2011",
+        "city": "Yangon",
+        "country": "Myanmar",
+        "type": "National",
+        "notes": "First film festival in Myanmar, featuring mainly short films."
+    },
+    {
+        "name": "Women Make Waves",
+        "url": "https://en.wikipedia.org/wiki/Women_Make_Waves",
+        "est": "1993",
+        "city": "Taipei",
+        "country": "Taiwan",
+        "type": "International",
+        "notes": ""
+    },
+    {
+        "name": "World Film Festival of Bangkok",
+        "url": "https://en.wikipedia.org/wiki/World_Film_Festival_of_Bangkok",
+        "est": "2003",
+        "city": "Bangkok",
+        "country": "Thailand",
+        "type": "International",
+        "notes": "Organized by Nation Multimedia Group. (Inactive since 2017)"
+    },
+    {
+        "name": "Yamagata International Documentary Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Yamagata_International_Documentary_Film_Festival",
+        "est": "1989",
+        "city": "Yamagata",
+        "country": "Japan",
+        "type": "Documentary",
+        "notes": "Biennial documentary film festival."
+    },
+    {
+        "name": "Grand Bell Awards",
+        "url": "https://en.wikipedia.org/wiki/Grand_Bell_Awards",
+        "est": "1962",
+        "city": "Seoul",
+        "country": "South Korea",
+        "type": "National",
+        "notes": "The Motion Pictures Association of Korea for excellence in film in South Korea."
+    },
+    {
+        "name": "Africa in Motion",
+        "url": "https://en.wikipedia.org/wiki/Africa_in_Motion",
+        "est": "2006",
+        "city": "Edinburgh",
+        "country": "Scotland",
+        "type": "African cinema",
+        "notes": "Annual film festival featuring African cinema."
+    },
+    {
+        "name": "Ale Kino! International Young Audience Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Ale_Kino!_International_Young_Audience_Film_Festival",
+        "est": "1969",
+        "city": "Poznań",
+        "country": "Poland",
+        "type": "International, children's film",
+        "notes": "Films addressed to children and young adults."
+    },
+    {
+        "name": "American Film Festival",
+        "url": "https://en.wikipedia.org/wiki/American_Film_Festival",
+        "est": "2010",
+        "city": "Wrocław",
+        "country": "Poland",
+        "type": "American cinema",
+        "notes": "Annual film festival devoted to American cinema."
+    },
+    {
+        "name": "Amsterdam Film eXperience",
+        "url": "https://en.wikipedia.org/wiki/Amsterdam_Film_eXperience",
+        "est": "2006",
+        "city": "Amsterdam",
+        "country": "Netherlands",
+        "type": "International",
+        "notes": "New media, cross-over, animation, interaction, experimental, and installations."
+    },
+    {
+        "name": "Annecy International Animation Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Annecy_International_Animation_Film_Festival",
+        "est": "1960",
+        "city": "Annecy",
+        "country": "France",
+        "type": "International, animation",
+        "notes": "The first animation film festival in history,"
+    },
+    {
+        "name": "Al Jazeera Balkans Documentary Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Al_Jazeera_Balkans_Documentary_Film_Festival",
+        "est": "2018",
+        "city": "Sarajevo",
+        "country": "Bosnia and Herzegovina",
+        "type": "International, documentary",
+        "notes": ""
+    },
+    {
+        "name": "Anifilm",
+        "url": "https://en.wikipedia.org/wiki/Anifilm",
+        "est": "2010",
+        "city": "Trebon",
+        "country": "Czech Republic",
+        "type": "International, animation",
+        "notes": "Held in Trebon, dedicated to animated films."
+    },
+    {
+        "name": "Animator",
+        "url": "https://en.wikipedia.org/wiki/Animator_(festival)",
+        "est": "2008",
+        "city": "Poznań",
+        "country": "Poland",
+        "type": "International, animation",
+        "notes": "Dedicated to animated films."
+    },
+    {
+        "name": "Antalya International Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Antalya_International_Film_Festival",
+        "est": "1963",
+        "city": "Antalya",
+        "country": "Turkey",
+        "type": "International",
+        "notes": "Held annually in autumn."
+    },
+    {
+        "name": "Arctic Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Arctic_Film_Festival",
+        "est": "2019",
+        "city": "Svalbard",
+        "country": "Norway",
+        "type": "International",
+        "notes": "Held annually in September."
+    },
+    {
+        "name": "Baku International Film Festival East-West",
+        "url": "https://en.wikipedia.org/wiki/Baku_International_Film_Festival_East-West",
+        "est": "1991",
+        "city": "Baku",
+        "country": "Azerbaijan",
+        "type": "International",
+        "notes": ""
+    },
+    {
+        "name": "Baku International Tourism Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Baku_International_Tourism_Film_Festival",
+        "est": "2013",
+        "city": "Baku",
+        "country": "Azerbaijan",
+        "type": "International",
+        "notes": ""
+    },
+    {
+        "name": "Bergen International Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Bergen_International_Film_Festival",
+        "est": "2000",
+        "city": "Bergen",
+        "country": "Norway",
+        "type": "International",
+        "notes": "Also called BIFF, the festival is held annually in September or October."
+    },
+    {
+        "name": "Berlin International Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Berlin_International_Film_Festival",
+        "est": "1951",
+        "city": "Berlin",
+        "country": "Germany",
+        "type": "International",
+        "notes": "Also called the \"Berlinale\", the festival is held annually in February."
+    },
+    {
+        "name": "Brazilian Film Festival of London",
+        "url": "https://en.wikipedia.org/wiki/Brazilian_Film_Festival_of_London",
+        "est": "2009",
+        "city": "London",
+        "country": "England",
+        "type": "Brazilian cinema",
+        "notes": "Held annually in London."
+    },
+    {
+        "name": "British Urban Film Festival",
+        "url": "https://en.wikipedia.org/wiki/British_Urban_Film_Festival",
+        "est": "2005",
+        "city": "London",
+        "country": "England",
+        "type": "Independent film",
+        "notes": "Also called BUFF, the festival is held every year around September."
+    },
+    {
+        "name": "Brussels International Fantastic Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Brussels_International_Fantastic_Film_Festival",
+        "est": "1983",
+        "city": "Brussels",
+        "country": "Belgium",
+        "type": "Special interest",
+        "notes": "Annual venue for horror, thriller, and science fiction films."
+    },
+    {
+        "name": "Brussels International Independent Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Brussels_International_Independent_Film_Festival",
+        "est": "1974",
+        "city": "Brussels",
+        "country": "Belgium",
+        "type": "Special interest",
+        "notes": ""
+    },
+    {
+        "name": "Cambridge Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Cambridge_Film_Festival",
+        "est": "1977",
+        "city": "Cambridge",
+        "country": "England",
+        "type": "International",
+        "notes": "Held annually, currently in September."
+    },
+    {
+        "name": "Camerimage",
+        "url": "https://en.wikipedia.org/wiki/Camerimage",
+        "est": "1993",
+        "city": "Toruń",
+        "country": "Poland",
+        "type": "International",
+        "notes": "Dedicated to the art of cinematography, held annually in November."
+    },
+    {
+        "name": "Caminhos do Cinema Português",
+        "url": "https://en.wikipedia.org/wiki/Caminhos_do_Cinema_Portugu%C3%AAs",
+        "est": "1998",
+        "city": "Coimbra",
+        "country": "Portugal",
+        "type": "Special Interest",
+        "notes": "Held annually in November, it has a special interest on Portuguese film."
+    },
+    {
+        "name": "Cannes Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Cannes_Film_Festival",
+        "est": "1946",
+        "city": "Cannes",
+        "country": "France",
+        "type": "International",
+        "notes": "One of the world's oldest, most influential, and prestigious festivals, it is held annually (usually at the end of May) at the Palais des Festivals et des Congrès."
+    },
+    {
+        "name": "Children KinoFest",
+        "url": "https://en.wikipedia.org/wiki/Children_KinoFest",
+        "est": "2014",
+        "city": "Kyiv",
+        "country": "Ukraine",
+        "type": "International",
+        "notes": "Held annually in the end of May, with short films and features from around the world."
+    },
+    {
+        "name": "CinEast",
+        "url": "https://en.wikipedia.org/wiki/CinEast",
+        "est": "2008",
+        "city": "Luxembourg",
+        "country": "Luxembourg",
+        "type": "International/Central and Eastern European films",
+        "notes": "Focuses on recent feature films, as well as documentaries, animated works and short films."
+    },
+    {
+        "name": "Miskolc International Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Miskolc_International_Film_Festival",
+        "est": "2004",
+        "city": "Miskolc",
+        "country": "Hungary",
+        "type": "International",
+        "notes": "Held annually in September, features international and native films as Hungarian premieres (short, documentary, feature)"
+    },
+    {
+        "name": "CinemAsia Film Festival",
+        "url": "https://en.wikipedia.org/wiki/CinemAsia_Film_Festival",
+        "est": "2003",
+        "city": "Amsterdam",
+        "country": "Netherlands",
+        "type": "Asian film",
+        "notes": "Held annually in April, features European and Dutch premieres of Asian movies (feature, documentary, animated, shorts)."
+    },
+    {
+        "name": "Colchester Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Colchester_Film_Festival",
+        "est": "2012",
+        "city": "Colchester",
+        "country": "England",
+        "type": "International",
+        "notes": "Held annually in October."
+    },
+    {
+        "name": "Cork Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Cork_Film_Festival",
+        "est": "1956",
+        "city": "Cork",
+        "country": "Ireland",
+        "type": "International",
+        "notes": "Held annually in November, it includes short films, features, documentaries, live soundtrack events and experimental filmmaking."
+    },
+    {
+        "name": "CPH:PIX",
+        "url": "https://en.wikipedia.org/wiki/CPH:PIX",
+        "est": "2009",
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "type": "International",
+        "notes": "Held from 27 September-10 October."
+    },
+    {
+        "name": "Croatian Minute Movie Cup",
+        "url": "https://en.wikipedia.org/wiki/Croatian_Minute_Movie_Cup",
+        "est": "1993",
+        "city": "Požega",
+        "country": "Croatia",
+        "type": "International",
+        "notes": ""
+    },
+    {
+        "name": "Crossing Europe",
+        "url": "https://en.wikipedia.org/wiki/Crossing_Europe",
+        "est": "2004",
+        "city": "Linz",
+        "country": "Austria",
+        "type": "European films",
+        "notes": "Last week of April"
+    },
+    {
+        "name": "Cyprus International Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Cyprus_International_Film_Festival",
+        "est": "2006",
+        "city": "Nicosia",
+        "country": "Cyprus",
+        "type": "International",
+        "notes": ""
+    },
+    {
+        "name": "Cyprus International Short Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Cyprus_International_Short_Film_Festival",
+        "est": "2008",
+        "city": "Nicosia",
+        "country": "Cyprus",
+        "type": "International, short film",
+        "notes": ""
+    },
+    {
+        "name": "Diagonale",
+        "url": "https://en.wikipedia.org/wiki/Diagonale",
+        "est": "1998",
+        "city": "Graz",
+        "country": "Austria",
+        "type": "International",
+        "notes": "Held annually in March."
+    },
+    {
+        "name": "Douro Film Harvest",
+        "url": "https://en.wikipedia.org/wiki/Douro_Film_Harvest",
+        "est": "2009",
+        "city": "Douro",
+        "country": "Portugal",
+        "type": "International",
+        "notes": "A decentralized film festival."
+    },
+    {
+        "name": "Drama International Short Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Drama_International_Short_Film_Festival",
+        "est": "1978",
+        "city": "Drama",
+        "country": "Greece",
+        "type": "International, short film",
+        "notes": "Held annually in September"
+    },
+    {
+        "name": "Dublin International Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Dublin_International_Film_Festival",
+        "est": "2002",
+        "city": "Dublin",
+        "country": "Ireland",
+        "type": "International",
+        "notes": "Succeeded Dublin Film Festival, held annually in February or March."
+    },
+    {
+        "name": "Ecologico International Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Ecologico_International_Film_Festival",
+        "est": "2008",
+        "city": "Nardò",
+        "country": "Italy",
+        "type": "International",
+        "notes": "Featuring independent films committed to issues of contemporary society."
+    },
+    {
+        "name": "Edinburgh International Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Edinburgh_International_Film_Festival",
+        "est": "1947",
+        "city": "Edinburgh",
+        "country": "Scotland",
+        "type": "International",
+        "notes": "One of the longest continuously running film festival in the world, taking place annually in June."
+    },
+    {
+        "name": "Falstaff International Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Falstaff_International_Film_Festival",
+        "est": "2009",
+        "city": "Stratford-upon-Avon",
+        "country": "England",
+        "type": "International",
+        "notes": "Held annually in November, with a selected program and awards."
+    },
+    {
+        "name": "Fantasporto",
+        "url": "https://en.wikipedia.org/wiki/Fantasporto",
+        "est": "1982",
+        "city": "Oporto",
+        "country": "Portugal",
+        "type": "Genre",
+        "notes": "International fantasy, horror, action and science-fiction festival."
+    },
+    {
+        "name": "FEST",
+        "url": "https://en.wikipedia.org/wiki/FEST_(Belgrade)",
+        "est": "1971",
+        "city": "Belgrade",
+        "country": "Serbia",
+        "type": "International",
+        "notes": "An international film festival held annually in February or March."
+    },
+    {
+        "name": "Festival del Cinema all'Aperto \"Accordi @ DISACCORDI\"",
+        "url": "https://en.wikipedia.org/wiki/Festival_del_Cinema_all%27Aperto_%22Accordi_@_DISACCORDI%22",
+        "est": "2000",
+        "city": "Naples",
+        "country": "Italy",
+        "type": "RegionalInternational",
+        "notes": "Annual three-month outdoor film festival"
+    },
+    {
+        "name": "Festival du Film Merveilleux",
+        "url": "https://en.wikipedia.org/wiki/Festival_du_Film_Merveilleux",
+        "est": "2010",
+        "city": "Paris",
+        "country": "France",
+        "type": "International",
+        "notes": ""
+    },
+    {
+        "name": "Festróia - Tróia International Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Festroia_International_Film_Festival",
+        "est": "1985",
+        "city": "Setúbal",
+        "country": "Portugal",
+        "type": "Special interest",
+        "notes": "Held annually in June, the competition section is open to films from countries that produce fewer than 30 films per year."
+    },
+    {
+        "name": "Five Flavours Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Five_Flavours_Film_Festival",
+        "est": "2007",
+        "city": "Warsaw",
+        "country": "Poland",
+        "type": "Asian film",
+        "notes": "Dedicated to the cinema of Southeast and East Asia."
+    },
+    {
+        "name": "Flanders International Film Festival Ghent",
+        "url": "https://en.wikipedia.org/wiki/Flanders_International_Film_Festival_Ghent",
+        "est": "1974",
+        "city": "Ghent",
+        "country": "Belgium",
+        "type": "International",
+        "notes": ""
+    },
+    {
+        "name": "Filmfest Hamburg",
+        "url": "https://en.wikipedia.org/wiki/Filmfest_Hamburg",
+        "est": "1992",
+        "city": "Hamburg",
+        "country": "Germany",
+        "type": "International",
+        "notes": ""
+    },
+    {
+        "name": "Flip Animation Festival",
+        "url": "https://en.wikipedia.org/wiki/Flip_Animation_Festival",
+        "est": "2004",
+        "city": "Wolverhampton",
+        "country": "England",
+        "type": "Animation",
+        "notes": "Annual independent film festival held at the Cinema \"Light House\"."
+    },
+    {
+        "name": "FreeNetWorld International Film Fest",
+        "url": "https://en.wikipedia.org/wiki/FreeNetWorld_International_Film_Fest",
+        "est": "2008",
+        "city": "Niš",
+        "country": "Serbia",
+        "type": "International",
+        "notes": "Held annually."
+    },
+    {
+        "name": "Fresh Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Fresh_Film_Festival",
+        "est": "2004",
+        "city": "Karlovy Vary",
+        "country": "Czech Republic",
+        "type": "International",
+        "notes": "Student film, feature, documentary, animation, experimental."
+    },
+    {
+        "name": "Fribourg International Film Festival (FIFF)",
+        "url": "https://en.wikipedia.org/wiki/Fribourg_International_Film_Festival",
+        "est": "1980",
+        "city": "Fribourg",
+        "country": "Switzerland",
+        "type": "International",
+        "notes": "Festival devoted to international cinema. Held annually in March. The FIFF is one of the five most important film festivals of Switzerland."
+    },
+    {
+        "name": "Galway African Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Galway_African_Film_Festival",
+        "est": "2008",
+        "city": "Galway",
+        "country": "Ireland",
+        "type": "African cinema",
+        "notes": "Films by African directors, covering all genres."
+    },
+    {
+        "name": "Geneva International Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Geneva_International_Film_Festival",
+        "est": "1995",
+        "city": "Geneva",
+        "country": "Switzerland",
+        "type": "International",
+        "notes": "Festival devoted to cinema, television, and digital creation held annually in November."
+    },
+    {
+        "name": "Gdynia Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Gdynia_Film_Festival",
+        "est": "1974",
+        "city": "Gdynia",
+        "country": "Poland",
+        "type": "Polish cinema",
+        "notes": "Annual film festival featuring Polish cinema."
+    },
+    {
+        "name": "Giffoni Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Giffoni_Film_Festival",
+        "est": "1971",
+        "city": "Giffoni Valle Piana",
+        "country": "Italy",
+        "type": "International",
+        "notes": "One of the largest film festivals for children, held annually in July, with short films and features from around the world."
+    },
+    {
+        "name": "Gijón International Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Gij%C3%B3n_International_Film_Festival",
+        "est": "1963",
+        "city": "Gijón",
+        "country": "Spain",
+        "type": "International",
+        "notes": ""
+    },
+    {
+        "name": "Glasgow Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Glasgow_Film_Festival",
+        "est": "2005",
+        "city": "Glasgow",
+        "country": "Scotland",
+        "type": "International",
+        "notes": "Annual festival held in February and/or March."
+    },
+    {
+        "name": "Golden Apricot - Yerevan International Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Yerevan_International_Film_Festival",
+        "est": "2004",
+        "city": "Yerevan",
+        "country": "Armenia",
+        "type": "International",
+        "notes": "Annual festival featuring new works by Armenian directors and producers, and foreign cinematographers of Armenian descent."
+    },
+    {
+        "name": "Göteborg International Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Gothenburg_Film_Festival",
+        "est": "1979",
+        "city": "Gothenburg",
+        "country": "Sweden",
+        "type": "International",
+        "notes": "Held annually in January to February."
+    },
+    {
+        "name": "Insight Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Insight_Film_Festival",
+        "est": "2007",
+        "city": "Manchester",
+        "country": "England",
+        "type": "Special interest",
+        "notes": "Biennial interfaith, short-film festival focused on 'faith' as a genre and subject matter."
+    },
+    {
+        "name": "International Festival of Independent Cinema Off Camera",
+        "url": "https://en.wikipedia.org/wiki/International_Festival_of_Independent_Cinema_Off_Camera",
+        "est": "2008",
+        "city": "Kraków",
+        "country": "Poland",
+        "type": "International",
+        "notes": "Film festival devoted to independent cinema."
+    },
+    {
+        "name": "International Film Awards Berlin",
+        "url": "https://en.wikipedia.org/wiki/International_Film_Awards_Berlin",
+        "est": "2012",
+        "city": "Berlin",
+        "country": "Germany",
+        "type": "International",
+        "notes": "Held annually in August"
+    },
+    {
+        "name": "International Film Festival Mannheim-Heidelberg",
+        "url": "https://en.wikipedia.org/wiki/International_Film_Festival_Mannheim-Heidelberg",
+        "est": "1952",
+        "city": "MannheimHeidelberg",
+        "country": "Germany",
+        "type": "International",
+        "notes": "Held annually in November"
+    },
+    {
+        "name": "International Film Festival Rotterdam",
+        "url": "https://en.wikipedia.org/wiki/International_Film_Festival_Rotterdam",
+        "est": "1972",
+        "city": "Rotterdam",
+        "country": "Netherlands",
+        "type": "International",
+        "notes": "Held annually in January or February."
+    },
+    {
+        "name": "International Health Film Festival",
+        "url": "https://en.wikipedia.org/wiki/International_Health_Film_Festival",
+        "est": "1994",
+        "city": "Liège",
+        "country": "Belgium",
+        "type": "Special interest",
+        "notes": "Annual festival for international health and science films."
+    },
+    {
+        "name": "Thessaloniki International Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Thessaloniki_International_Film_Festival",
+        "est": "1960",
+        "city": "Thessaloniki",
+        "country": "Greece",
+        "type": "International",
+        "notes": "Held annually in November, focusing in work of new and emerging filmmakers."
+    },
+    {
+        "name": "Istanbul International Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Istanbul_International_Film_Festival",
+        "est": "1982",
+        "city": "Istanbul",
+        "country": "Turkey",
+        "type": "International",
+        "notes": "Held annually around the end of April."
+    },
+    {
+        "name": "Jewish Motifs International Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Jewish_Motifs_International_Film_Festival",
+        "est": "2004",
+        "city": "Warsaw",
+        "country": "Poland",
+        "type": "International",
+        "notes": "Held annually in April or May. Jewish-themed films."
+    },
+    {
+        "name": "Jihlava International Documentary Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Jihlava_International_Documentary_Film_Festival",
+        "est": "1997",
+        "city": "Jihlava",
+        "country": "Czech Republic",
+        "type": "International, documentary",
+        "notes": "Largest event of its kind in Central and Eastern Europe. Held annually in October."
+    },
+    {
+        "name": "Karlovy Vary International Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Karlovy_Vary_International_Film_Festival",
+        "est": "1946",
+        "city": "Karlovy Vary",
+        "country": "Czech Republic",
+        "type": "International",
+        "notes": "One of the oldest film festivals and oldest in Central Europe, Organised annually."
+    },
+    {
+        "name": "Kastav Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Kastav_Film_Festival",
+        "est": "2009",
+        "city": "Kastav",
+        "country": "Croatia",
+        "type": "International",
+        "notes": ""
+    },
+    {
+        "name": "Kaunas International Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Kaunas_International_Film_Festival",
+        "est": "2007",
+        "city": "Kaunas",
+        "country": "Lithuania",
+        "type": "International",
+        "notes": "Held annually in October."
+    },
+    {
+        "name": "Kraków Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Krak%C3%B3w_Film_Festival",
+        "est": "1960",
+        "city": "Kraków",
+        "country": "Poland",
+        "type": "International, short film",
+        "notes": "Short film festival of global importance. The oldest film event in Poland."
+    },
+    {
+        "name": "Kratkofil International short film festival",
+        "url": "https://en.wikipedia.org/wiki/Kratkofil_International_short_film_festival",
+        "est": "2007",
+        "city": "Banja Luka",
+        "country": "Bosnia and Herzegovina",
+        "type": "International, short film",
+        "notes": "Short film festival."
+    },
+    {
+        "name": "Küstendorf",
+        "url": "https://en.wikipedia.org/wiki/K%C3%BCstendorf_Film_and_Music_Festival",
+        "est": "2008",
+        "city": "Drvengrad",
+        "country": "Serbia",
+        "type": "International, short film",
+        "notes": "Held annually in January, featuring short films."
+    },
+    {
+        "name": "Lausanne Underground Film & Music Festival",
+        "url": "https://en.wikipedia.org/wiki/Lausanne_Underground_Film_and_Music_Festival",
+        "est": "2002",
+        "city": "Lausanne",
+        "country": "Switzerland",
+        "type": "International",
+        "notes": "Underground movies, experimental music. Held annually in October."
+    },
+    {
+        "name": "Leeds International Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Leeds_International_Film_Festival",
+        "est": "1986",
+        "city": "Leeds",
+        "country": "England",
+        "type": "International",
+        "notes": ""
+    },
+    {
+        "name": "Let's All Be Free Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Let%27s_All_Be_Free_Film_Festival",
+        "est": "2013",
+        "city": "London",
+        "country": "England",
+        "type": "International",
+        "notes": "A film festival dedicated to exploring what it means to be free."
+    },
+    {
+        "name": "Lisbon Gay & Lesbian Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Lisbon_Gay_%26_Lesbian_Film_Festival",
+        "est": "1996",
+        "city": "Lisbon",
+        "country": "Portugal",
+        "type": "Special interest",
+        "notes": "Featuring international LGBT film and video."
+    },
+    {
+        "name": "Locarno International Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Locarno_International_Film_Festival",
+        "est": "1946",
+        "city": "Locarno",
+        "country": "Switzerland",
+        "type": "International",
+        "notes": "One of the oldest film festivals held annually in August."
+    },
+    {
+        "name": "London Asian Film Festival",
+        "url": "https://en.wikipedia.org/wiki/London_Asian_Film_Festival",
+        "est": "1999",
+        "city": "London",
+        "country": "England",
+        "type": "Asian film",
+        "notes": "Held annually at the BFI or BAFTA in the spring."
+    },
+    {
+        "name": "London Film Festival",
+        "url": "https://en.wikipedia.org/wiki/London_Film_Festival",
+        "est": "1956",
+        "city": "London",
+        "country": "England",
+        "type": "International",
+        "notes": "Held annually by the British Film Institute."
+    },
+    {
+        "name": "London International Documentary Festival",
+        "url": "https://en.wikipedia.org/wiki/London_International_Documentary_Festival",
+        "est": "2007",
+        "city": "London",
+        "country": "England",
+        "type": "International, documentary",
+        "notes": "Also known as LIDF. Held annually in March/April, with extra screenings all year around."
+    },
+    {
+        "name": "Manaki Brothers Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Manaki_Brothers_Film_Festival",
+        "est": "1979",
+        "city": "Bitola",
+        "country": "North Macedonia",
+        "type": "International",
+        "notes": "Official competition for cinematographers. Held annually in September."
+    },
+    {
+        "name": "Message to Man",
+        "url": "https://en.wikipedia.org/wiki/Message_to_Man",
+        "est": "1989",
+        "city": "Saint-Petersburg",
+        "country": "Russia",
+        "type": "International",
+        "notes": "International documentary, short and animation film festival held in Russia."
+    },
+    {
+        "name": "Mobile Motion Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Mobile_Motion_Film_Festival",
+        "est": "2015",
+        "city": "Zürich",
+        "country": "Switzerland",
+        "type": "International",
+        "notes": "First will be held in 2015."
+    },
+    {
+        "name": "Molodist",
+        "url": "https://en.wikipedia.org/wiki/Molodist",
+        "est": "1970",
+        "city": "Kyiv",
+        "country": "Ukraine",
+        "type": "International",
+        "notes": "Competition devoted to student, first short and first full feature films from all over the world. Held annually in October."
+    },
+    {
+        "name": "Moscow International Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Moscow_International_Film_Festival",
+        "est": "1935",
+        "city": "Moscow",
+        "country": "Russia",
+        "type": "International",
+        "notes": "First held in 1935, from 1959 to 1995 it was held every second year in July (alternating with Karlovy Vary film festival), and since 1995 has been held annually."
+    },
+    {
+        "name": "Motovun Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Motovun_Film_Festival",
+        "est": "1999",
+        "city": "Motovun",
+        "country": "Croatia",
+        "type": "Special interest",
+        "notes": "Dedicated to independent film."
+    },
+    {
+        "name": "Mykonos Biennale",
+        "url": "https://en.wikipedia.org/wiki/Mykonos_Biennale",
+        "est": "2013",
+        "city": "Mykonos",
+        "country": "Greece",
+        "type": "International",
+        "notes": "Part of the Mykonos Biennale art festival, mainly shows shorts and art videos."
+    },
+    {
+        "name": "Nederlands Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Netherlands_Film_Festival",
+        "est": "1981\n",
+        "city": "Utrecht",
+        "country": "Netherlands",
+        "type": "National\n",
+        "notes": "Both the home of Dutch cinema and the leading platform for the Netherlands’ national film culture."
+    },
+    {
+        "name": "Neuchâtel International Fantastic Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Neuch%C3%A2tel_International_Fantastic_Film_Festival",
+        "est": "2000",
+        "city": "Neuchâtel",
+        "country": "Switzerland",
+        "type": "International",
+        "notes": "A Swiss festival for fantastic films, Asian cinema and future images. Held annually in July."
+    },
+    {
+        "name": "New Horizons International Film Festival",
+        "url": "https://en.wikipedia.org/wiki/New_Horizons_Film_Festival",
+        "est": "2001",
+        "city": "Wrocław",
+        "country": "Poland",
+        "type": "International",
+        "notes": "Held annually in the end of July."
+    },
+    {
+        "name": "Norwegian International Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Norwegian_International_Film_Festival",
+        "est": "1973",
+        "city": "Haugesund",
+        "country": "Norway",
+        "type": "International",
+        "notes": "Held annually in August."
+    },
+    {
+        "name": "Odesa International Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Odesa_International_Film_Festival",
+        "est": "2010",
+        "city": "Odesa",
+        "country": "Ukraine",
+        "type": "International",
+        "notes": "festival held annually in July."
+    },
+    {
+        "name": "Odense International Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Odense_International_Film_Festival",
+        "est": "1975",
+        "city": "Odense",
+        "country": "Denmark",
+        "type": "International, short film",
+        "notes": "Short film festival held annually in August. Oldest film festival in Denmark."
+    },
+    {
+        "name": "Oldenburg International Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Oldenburg_International_Film_Festival",
+        "est": "1994",
+        "city": "Oldenburg, Lower Saxony",
+        "country": "Germany",
+        "type": "International",
+        "notes": "Annual festival of independent film."
+    },
+    {
+        "name": "Pacific Meridian",
+        "url": "https://en.wikipedia.org/wiki/Pacific_Meridian",
+        "est": "2003",
+        "city": "Vladivostok",
+        "country": "Russia",
+        "type": "Specific interest",
+        "notes": "Annual festival featuring films from Asian Pacific Countries."
+    },
+    {
+        "name": "Paris Lesbian and Feminist Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Paris_Lesbian_and_Feminist_Film_Festival",
+        "est": "1989\n",
+        "city": "Paris",
+        "country": "France",
+        "type": "International\n",
+        "notes": "Women-only festival featuring films by and about lesbians and feminism"
+    },
+    {
+        "name": "Pluk de nacht",
+        "url": "https://en.wikipedia.org/wiki/Pluk_de_nacht",
+        "est": "2003",
+        "city": "Amsterdam",
+        "country": "Netherlands",
+        "type": "International",
+        "notes": "Open air film festival focusing on art house, short films and media art. Held annually in August."
+    },
+    {
+        "name": "Pravo Ljudski Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Pravo_Ljudski_Film_Festival",
+        "est": "2006",
+        "city": "Sarajevo",
+        "country": "Bosnia and Herzegovina",
+        "type": "International",
+        "notes": "Human rights"
+    },
+    {
+        "name": "Public Health Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Public_Health_Film_Festival",
+        "est": "2014",
+        "city": "Oxford",
+        "country": "United Kingdom",
+        "type": "Films on health\n",
+        "notes": ""
+    },
+    {
+        "name": "Pula Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Pula_Film_Festival",
+        "est": "1953",
+        "city": "Pula",
+        "country": "Croatia",
+        "type": "Regional",
+        "notes": ""
+    },
+    {
+        "name": "Raindance Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Raindance_Film_Festival",
+        "est": "1993",
+        "city": "London",
+        "country": "England",
+        "type": "Special interest",
+        "notes": "A festival for independent films; also the founder of the British Independent Film Awards."
+    },
+    {
+        "name": "Reykjavík International Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Reykjav%C3%ADk_International_Film_Festival",
+        "est": "2004",
+        "city": "Reykjavík",
+        "country": "Iceland",
+        "type": "International",
+        "notes": "Held annually in September, featuring current independent and alternative cinema."
+    },
+    {
+        "name": "Rome Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Rome_Film_Festival",
+        "est": "2006",
+        "city": "Rome",
+        "country": "Italy",
+        "type": "International",
+        "notes": "Held annually in October."
+    },
+    {
+        "name": "Rome Independent Cinema Festival",
+        "url": "https://en.wikipedia.org/wiki/Rome_Independent_Cinema_Festival",
+        "est": "2018",
+        "city": "Rome",
+        "country": "Italy",
+        "type": "International",
+        "notes": "Held annually in August."
+    },
+    {
+        "name": "Rome Independent Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Rome_Independent_Film_Festival",
+        "est": "2001",
+        "city": "Rome",
+        "country": "Italy",
+        "type": "International",
+        "notes": "Held annually in November."
+    },
+    {
+        "name": "Russian Film Week",
+        "url": "https://en.wikipedia.org/wiki/Russian_Film_Week",
+        "est": "2016\n",
+        "city": "LondonCambridgeEdinburgh",
+        "country": "United Kingdom",
+        "type": "Special interest\n",
+        "notes": "A Contemporary Russian film and international films with a Russian connection"
+    },
+    {
+        "name": "San Sebastián International Film Festival",
+        "url": "https://en.wikipedia.org/wiki/San_Sebasti%C3%A1n_International_Film_Festival",
+        "est": "1953",
+        "city": "San Sebastián",
+        "country": "Spain",
+        "type": "International",
+        "notes": "An annual FIAPF \"A\" category festival."
+    },
+    {
+        "name": "Santorini Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Santorini_Film_Festival",
+        "est": "2018",
+        "city": "Santorini",
+        "country": "Greece",
+        "type": "International",
+        "notes": "Held annually in June."
+    },
+    {
+        "name": "Sarajevo Fashion Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Sarajevo_Fashion_Film_Festival",
+        "est": "2015",
+        "city": "Sarajevo",
+        "country": "Bosnia and Herzegovina",
+        "type": "International",
+        "notes": "Showcases fashion films, advertising films, music videos and short documentaries on the fashion industry."
+    },
+    {
+        "name": "Sarajevo Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Sarajevo_Film_Festival",
+        "est": "1995",
+        "city": "Sarajevo",
+        "country": "Bosnia and Herzegovina",
+        "type": "International",
+        "notes": "Held annually in August."
+    },
+    {
+        "name": "Sarajevo Youth Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Sarajevo_Youth_Film_Festival",
+        "est": "2008",
+        "city": "Sarajevo",
+        "country": "Bosnia and Herzegovina",
+        "type": "International",
+        "notes": "Held annually in July, showcases student and youth-made films."
+    },
+    {
+        "name": "SCHLINGEL International Film Festival",
+        "url": "https://en.wikipedia.org/wiki/SCHLINGEL_International_Film_Festival",
+        "est": "1996",
+        "city": "Chemnitz",
+        "country": "Germany",
+        "type": "International",
+        "notes": "Held annually in Autumn, spotlighting movies for children and young audience."
+    },
+    {
+        "name": "SEMINCI",
+        "url": "https://en.wikipedia.org/wiki/SEMINCI",
+        "est": "1956",
+        "city": "Valladolid",
+        "country": "Spain",
+        "type": "International Indie",
+        "notes": "Held annually in October. Also known as Valladolid International Film Festival or Semana internacional de cine de Valladolid"
+    },
+    {
+        "name": "ShortCutz Amsterdam",
+        "url": "https://en.wikipedia.org/wiki/ShortCutz_Amsterdam",
+        "est": "2013",
+        "city": "Amsterdam",
+        "country": "Netherlands",
+        "type": "Short film",
+        "notes": "Held annually, featuring short-films."
+    },
+    {
+        "name": "Sitges Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Sitges_Film_Festival",
+        "est": "1967",
+        "city": "Sitges",
+        "country": "Spain",
+        "type": "Genre (fantasy)",
+        "notes": "Held annually in October."
+    },
+    {
+        "name": "Sofia International Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Sofia_International_Film_Festival",
+        "est": "1997",
+        "city": "Sofia",
+        "country": "Bulgaria",
+        "type": "International",
+        "notes": "Also known as Sofia Film Fest. Held annually in March. Competitive specialized festival for first and second feature films."
+    },
+    {
+        "name": "Solothurn Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Solothurn_Film_Festival",
+        "est": "1966",
+        "city": "Solothurn",
+        "country": "Switzerland",
+        "type": "Swiss cinema",
+        "notes": "Held annually in January."
+    },
+    {
+        "name": "Stockholm International Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Stockholm_International_Film_Festival",
+        "est": "1990",
+        "city": "Stockholm",
+        "country": "Sweden",
+        "type": "International",
+        "notes": "Held annually in November."
+    },
+    {
+        "name": "Strasbourg European Fantastic Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Strasbourg_European_Fantastic_Film_Festival",
+        "est": "2005",
+        "city": "Strasbourg",
+        "country": "France",
+        "type": "European",
+        "notes": "Held annually in September."
+    },
+    {
+        "name": "Subversive Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Subversive_Film_Festival",
+        "est": "2008",
+        "city": "Zagreb",
+        "country": "Croatia",
+        "type": "International",
+        "notes": ""
+    },
+    {
+        "name": "SUPERTOON",
+        "url": "https://en.wikipedia.org/wiki/SUPERTOON",
+        "est": "2011",
+        "city": "Bol",
+        "country": "Croatia",
+        "type": "International, animation",
+        "notes": ""
+    },
+    {
+        "name": "Swansea Bay Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Swansea_Bay_Film_Festival",
+        "est": "2006",
+        "city": "Swansea",
+        "country": "Wales",
+        "type": "International",
+        "notes": "Held annually in May/June. Featuring international independent and experimental films."
+    },
+    {
+        "name": "Tallinn Black Nights Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Tallinn_Black_Nights_Film_Festival",
+        "est": "1997",
+        "city": "Tallinn",
+        "country": "Estonia",
+        "type": "International",
+        "notes": "Held annually in the end of November. Known also as PÖFF."
+    },
+    {
+        "name": "Taormina Film Fest",
+        "url": "https://en.wikipedia.org/wiki/Taormina_Film_Fest",
+        "est": "1955",
+        "city": "Taormina",
+        "country": "Italy",
+        "type": "International",
+        "notes": "Held annually in June, featuring Italian, Mediterranean and international cinema."
+    },
+    {
+        "name": "Three Continents Festival",
+        "url": "https://en.wikipedia.org/wiki/Three_Continents_Festival",
+        "est": "1979",
+        "city": "Nantes",
+        "country": "France",
+        "type": "Special interest",
+        "notes": "Annual festival devoted to the cinemas of Asia, Africa, and Latin America."
+    },
+    {
+        "name": "Tirana International Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Tirana_International_Film_Festival",
+        "est": "2003",
+        "city": "Tirana",
+        "country": "Albania",
+        "type": "International",
+        "notes": "Held annually in September."
+    },
+    {
+        "name": "Tofifest",
+        "url": "https://en.wikipedia.org/wiki/Tofifest",
+        "est": "2002",
+        "city": "Toruń",
+        "country": "Poland",
+        "type": "International, independent film",
+        "notes": ""
+    },
+    {
+        "name": "Transatlantyk Festival",
+        "url": "https://en.wikipedia.org/wiki/Transatlantyk_Festival",
+        "est": "2011",
+        "city": "Łódź",
+        "country": "Poland",
+        "type": "International",
+        "notes": "Moved from Poznań to Łódź in 2016."
+    },
+    {
+        "name": "Transilvania International Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Transilvania_International_Film_Festival",
+        "est": "2001",
+        "city": "Cluj-Napoca",
+        "country": "Romania",
+        "type": "International",
+        "notes": "Held annually in June."
+    },
+    {
+        "name": "Tuzla Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Tuzla_Film_Festival",
+        "est": "2012",
+        "city": "Tuzla",
+        "country": "Bosnia and Herzegovina",
+        "type": "International",
+        "notes": "Featuring south Slavic cinematography. Held annually in September."
+    },
+    {
+        "name": "Venice Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Venice_Film_Festival",
+        "est": "1932",
+        "city": "Venice",
+        "country": "Italy",
+        "type": "International",
+        "notes": "The world's oldest film festival, it is held annually in late August or early September on the Venetian island of Lido."
+    },
+    {
+        "name": "Vienna Independent Shorts",
+        "url": "https://en.wikipedia.org/wiki/Vienna_Independent_Shorts",
+        "est": "2004",
+        "city": "Vienna",
+        "country": "Austria",
+        "type": "Short film",
+        "notes": "Held annually in May."
+    },
+    {
+        "name": "Viennale",
+        "url": "https://en.wikipedia.org/wiki/Vienna_International_Film_Festival",
+        "est": "1960",
+        "city": "Vienna",
+        "country": "Austria",
+        "type": "International",
+        "notes": "Held annually in October."
+    },
+    {
+        "name": "Vilnius International Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Vilnius_International_Film_Festival",
+        "est": "1995",
+        "city": "Vilnius",
+        "country": "Lithuania",
+        "type": "International",
+        "notes": "Held annually in March."
+    },
+    {
+        "name": "VIVA Film Festival",
+        "url": "https://en.wikipedia.org/wiki/VIVA_Film_Festival",
+        "est": "2015",
+        "city": "Sarajevo",
+        "country": "Bosnia and Herzegovina",
+        "type": "International, documentary",
+        "notes": "Documentary film with a focus on ecological, religious and touristic themes."
+    },
+    {
+        "name": "Warsaw International Film Festival[6]",
+        "url": "https://en.wikipedia.org/wiki/Warsaw_International_Film_Festival",
+        "est": "1985",
+        "city": "Warsaw",
+        "country": "Poland",
+        "type": "International",
+        "notes": "An FIAPF category \"A\" film festival held annually in the Polish capital every October."
+    },
+    {
+        "name": "ZagrebDox",
+        "url": "https://en.wikipedia.org/wiki/ZagrebDox",
+        "est": "2005",
+        "city": "Zagreb",
+        "country": "Croatia",
+        "type": "International, documentary",
+        "notes": "International documentary film festival."
+    },
+    {
+        "name": "Zagreb Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Zagreb_Film_Festival",
+        "est": "2003",
+        "city": "Zagreb",
+        "country": "Croatia",
+        "type": "International",
+        "notes": ""
+    },
+    {
+        "name": "Zagreb Jewish Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Zagreb_Jewish_Film_Festival",
+        "est": "2007",
+        "city": "Zagreb",
+        "country": "Croatia",
+        "type": "International",
+        "notes": ""
+    },
+    {
+        "name": "Zero Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Zero_Film_Festival",
+        "est": "2007",
+        "city": "London",
+        "country": "England",
+        "type": "Self-financed cinema",
+        "notes": "Held annually in London."
+    },
+    {
+        "name": "Sacramento French Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Sacramento_French_Film_Festival",
+        "est": "2002",
+        "city": "Sacramento",
+        "country": "California",
+        "type": "International",
+        "notes": "Second largest French film festival on the west coast. Summer, Fall, and Winter events."
+    },
+    {
+        "name": "$100 Film Festival",
+        "url": "https://en.wikipedia.org/wiki/$100_Film_Festival",
+        "est": "1992",
+        "city": "Calgary",
+        "country": "Alberta",
+        "type": "International",
+        "notes": "Annual festival dedicated to screening short films on Super 8mm and 16mm film."
+    },
+    {
+        "name": "100 Words Film Festival",
+        "url": "https://en.wikipedia.org/wiki/100_Words_Film_Festival",
+        "est": "2014",
+        "city": "Charlotte",
+        "country": "North Carolina",
+        "type": "International",
+        "notes": "Celebrating concise storytelling, each film must contain exactly 100 spoken words. Held annually in November."
+    },
+    {
+        "name": "168 Film Festival",
+        "url": "https://en.wikipedia.org/wiki/168_Film_Festival",
+        "est": "2003",
+        "city": "Los Angeles",
+        "country": "California",
+        "type": "International",
+        "notes": "International speed filmmaking competition and festival. Held annually in April."
+    },
+    {
+        "name": "Action On Film International Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Action_On_Film_International_Film_Festival",
+        "est": "2005",
+        "city": "Pasadena",
+        "country": "California",
+        "type": "International",
+        "notes": "Held annually in July, featuring independent and studio films."
+    },
+    {
+        "name": "American Black Film Festival",
+        "url": "https://en.wikipedia.org/wiki/American_Black_Film_Festival",
+        "est": "1996",
+        "city": "Miami",
+        "country": "Florida",
+        "type": "International",
+        "notes": "Held annually in various states, featuring African American throughout the film industry."
+    },
+    {
+        "name": "Ann Arbor Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Ann_Arbor_Film_Festival",
+        "est": "1961",
+        "city": "Ann Arbor",
+        "country": "Michigan",
+        "type": "International",
+        "notes": "Longest-running film festival showcasing experimental and independent film in North America. Held annually in late March."
+    },
+    {
+        "name": "Arab Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Arab_Film_Festival",
+        "est": "1996",
+        "city": "",
+        "country": "California",
+        "type": "International",
+        "notes": "Largest festival of contemporary Arab films in North America. Held annually in October, with touring programs year-round."
+    },
+    {
+        "name": "Arlington International Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Arlington_International_Film_Festival",
+        "est": "2010",
+        "city": "Arlington",
+        "country": "Massachusetts",
+        "type": "International",
+        "notes": "Focuses on multicultural awareness and the artistic and educational value of films from all around the world. Held annually in October."
+    },
+    {
+        "name": "Ashland Independent Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Ashland_Independent_Film_Festival",
+        "est": "2001",
+        "city": "Ashland",
+        "country": "Oregon",
+        "type": "International",
+        "notes": "Presents international and domestic shorts and features. Held annually in April."
+    },
+    {
+        "name": "Asian World Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Asian_World_Film_Festival",
+        "est": "2015",
+        "city": "Los Angeles",
+        "country": "California",
+        "type": "International",
+        "notes": "Held annually in October–November."
+    },
+    {
+        "name": "Atlanta Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Atlanta_Film_Festival",
+        "est": "1977",
+        "city": "Atlanta",
+        "country": "",
+        "type": "International",
+        "notes": "Held annually in April, featuring independent films of every genre."
+    },
+    {
+        "name": "Atlantic Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Atlantic_Film_Festival",
+        "est": "1980",
+        "city": "Halifax",
+        "country": "Nova Scotia",
+        "type": "International",
+        "notes": "Held annually in September, featuring films from around the world."
+    },
+    {
+        "name": "Athena Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Athena_Film_Festival",
+        "est": "2011",
+        "city": "New York City",
+        "country": "New York",
+        "type": "International",
+        "notes": "Held annually in February, featuring films on and about women's leadership."
+    },
+    {
+        "name": "Austin Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Austin_Film_Festival",
+        "est": "1994",
+        "city": "Austin",
+        "country": "Texas",
+        "type": "International",
+        "notes": "Showcasing screenwriters in North America. Held annually in October."
+    },
+    {
+        "name": "Bel Air Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Bel_Air_Film_Festival",
+        "est": "2008",
+        "city": "Los Angeles",
+        "country": "California",
+        "type": "International",
+        "notes": "An international festival held annually in November."
+    },
+    {
+        "name": "Berlin & Beyond Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Berlin_%26_Beyond_Film_Festival",
+        "est": "1996",
+        "city": "San Francisco",
+        "country": "California",
+        "type": "Special Interest",
+        "notes": "New films from Germany, Austria, Luxembourg and Switzerland."
+    },
+    {
+        "name": "Big Bear Lake International Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Big_Bear_Lake_International_Film_Festival",
+        "est": "2000",
+        "city": "Big Bear Lake",
+        "country": "California",
+        "type": "International",
+        "notes": "Showcasing Independent filmmakers from around the world, and includes a screenwriting competition.  Held each September."
+    },
+    {
+        "name": "Big Sky Documentary Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Big_Sky_Documentary_Film_Festival",
+        "est": "2003",
+        "city": "Missoula",
+        "country": "Montana",
+        "type": "International/Non-Fiction",
+        "notes": "Featuring non-fiction films, held each February."
+    },
+    {
+        "name": "Beloit International Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Beloit_International_Film_Festival",
+        "est": "2006",
+        "city": "Beloit",
+        "country": "Wisconsin",
+        "type": "International",
+        "notes": "A 10-day annual festival in late February. Feature length narrative & documentary films and short films."
+    },
+    {
+        "name": "Boston Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Boston_Film_Festival",
+        "est": "1984",
+        "city": "Boston",
+        "country": "Massachusetts",
+        "type": "International",
+        "notes": "Annually showcasing feature films, documentaries and shorts in September."
+    },
+    {
+        "name": "The Boston Jewish Film Festival",
+        "url": "https://en.wikipedia.org/wiki/The_Boston_Jewish_Film_Festival",
+        "est": "1989",
+        "city": "Boston",
+        "country": "Massachusetts",
+        "type": "Jewish",
+        "notes": "A non-competitive annual festival that screens contemporary films on Jewish themes from around the world. Held in November."
+    },
+    {
+        "name": "Boston Palestine Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Boston_Palestine_Film_Festival",
+        "est": "2007",
+        "city": "Boston",
+        "country": "Massachusetts",
+        "type": "International",
+        "notes": ""
+    },
+    {
+        "name": "Boston Science Fiction Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Boston_Science_Fiction_Film_Festival",
+        "est": "1976",
+        "city": "Boston",
+        "country": "Massachusetts",
+        "type": "Special Interest",
+        "notes": "A 10-day annual festival held every February, showcasing feature and short science fiction films."
+    },
+    {
+        "name": "Boston Underground Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Boston_Underground_Film_Festival",
+        "est": "1998",
+        "city": "Boston",
+        "country": "Massachusetts",
+        "type": "International",
+        "notes": "An annual festival that specializes in alternative film and video."
+    },
+    {
+        "name": "Boulder International Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Boulder_International_Film_Festival",
+        "est": "2004",
+        "city": "Boulder",
+        "country": "Colorado",
+        "type": "International",
+        "notes": "Held annually over the Presidents' Day weekend in February."
+    },
+    {
+        "name": "Buffalo Dreams Fantastic Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Buffalo_Dreams_Fantastic_Film_Festival",
+        "est": "2013",
+        "city": "Buffalo",
+        "country": "New York",
+        "type": "International",
+        "notes": "10-day festival held annually in November featuring independent genre films."
+    },
+    {
+        "name": "Buffalo International Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Buffalo_International_Film_Festival",
+        "est": "2004",
+        "city": "Buffalo",
+        "country": "New York",
+        "type": "International",
+        "notes": "4 day festival held annually in the Fall (usually October) featuring mainstream and independent films."
+    },
+    {
+        "name": "Burbank International Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Burbank_International_Film_Festival",
+        "est": "2009",
+        "city": "Burbank",
+        "country": "",
+        "type": "International\n",
+        "notes": ""
+    },
+    {
+        "name": "Calgary International Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Calgary_International_Film_Festival",
+        "est": "2000",
+        "city": "Calgary",
+        "country": "Alberta",
+        "type": "International",
+        "notes": "Held annually for 10 days in late September or early October."
+    },
+    {
+        "name": "Calgary Underground Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Calgary_Underground_Film_Festival",
+        "est": "2003",
+        "city": "Calgary",
+        "country": "Alberta",
+        "type": "International",
+        "notes": "Held annually for 7 days in April."
+    },
+    {
+        "name": "California Film Awards",
+        "url": "https://en.wikipedia.org/wiki/California_Film_Awards",
+        "est": "2010",
+        "city": "San Diego",
+        "country": "California",
+        "type": "International",
+        "notes": "Features new American and foreign independent films in several competition categories."
+    },
+    {
+        "name": "Camden International Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Camden_International_Film_Festival",
+        "est": "2005",
+        "city": "Camden",
+        "country": "Maine",
+        "type": "Documentary",
+        "notes": ""
+    },
+    {
+        "name": "Canadian Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Canadian_Film_Festival",
+        "est": "2004",
+        "city": "Toronto",
+        "country": "Ontario",
+        "type": "Canadian",
+        "notes": ""
+    },
+    {
+        "name": "Cape Cod International Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Cape_Cod_International_Film_Festival",
+        "est": "2014",
+        "city": "Chatham",
+        "country": "Massachusetts",
+        "type": "International",
+        "notes": "Annual high-curation-standard global boutique festival, early-mid October."
+    },
+    {
+        "name": "Castle Rock Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Castle_Rock_Film_Festival",
+        "est": "2009",
+        "city": "Castle Rock",
+        "country": "Colorado",
+        "type": "Rocky Mountain Regional states",
+        "notes": "Held annually in late September or early October."
+    },
+    {
+        "name": "Cedar Rapids Independent Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Cedar_Rapids_Independent_Film_Festival",
+        "est": "2001",
+        "city": "Cedar Rapids",
+        "country": "Iowa",
+        "type": "Regional/international",
+        "notes": "Held annually the first full non-Easter weekend in April."
+    },
+    {
+        "name": "CFC Worldwide Short Film Festival",
+        "url": "https://en.wikipedia.org/wiki/CFC_Worldwide_Short_Film_Festival",
+        "est": "1994",
+        "city": "Toronto",
+        "country": "Ontario",
+        "type": "International",
+        "notes": ""
+    },
+    {
+        "name": "Chagrin Documentary Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Chagrin_Documentary_Film_Festival",
+        "est": "2010",
+        "city": "Chagrin Falls",
+        "country": "Ohio",
+        "type": "Documentary",
+        "notes": "Held annually in early October for 5 days."
+    },
+    {
+        "name": "Chicago International Children's Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Chicago_International_Children%27s_Film_Festival",
+        "est": "1983",
+        "city": "Chicago",
+        "country": "Illinois",
+        "type": "International",
+        "notes": "First competitive festival of films for children in the US. Held annually in late October for 10 days."
+    },
+    {
+        "name": "Chicago International Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Chicago_International_Film_Festival",
+        "est": "1965",
+        "city": "Chicago",
+        "country": "Illinois",
+        "type": "International",
+        "notes": ""
+    },
+    {
+        "name": "Chicago International REEL Shorts Festival",
+        "url": "https://en.wikipedia.org/wiki/Chicago_International_REEL_Shorts_Festival",
+        "est": "2003",
+        "city": "Chicago",
+        "country": "Illinois",
+        "type": "International",
+        "notes": "Annual short film festival."
+    },
+    {
+        "name": "Chicago Palestine Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Chicago_Palestine_Film_Festival",
+        "est": "2002",
+        "city": "Chicago",
+        "country": "Illinois",
+        "type": "International",
+        "notes": ""
+    },
+    {
+        "name": "Cincinnati Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Cincinnati_Film_Festival",
+        "est": "2010",
+        "city": "Cincinnati",
+        "country": "Ohio",
+        "type": "International",
+        "notes": ""
+    },
+    {
+        "name": "Cine Las Americas International Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Cine_Las_Americas_International_Film_Festival",
+        "est": "1997",
+        "city": "Austin",
+        "country": "Texas",
+        "type": "International",
+        "notes": "Held annually in the spring showcasing Latin American, Latino and indigenous films."
+    },
+    {
+        "name": "Cinéfest Sudbury International Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Cin%C3%A9fest_Sudbury_International_Film_Festival",
+        "est": "1989",
+        "city": "Sudbury",
+        "country": "Ontario",
+        "type": "International",
+        "notes": ""
+    },
+    {
+        "name": "Cinéfranco",
+        "url": "https://en.wikipedia.org/wiki/Cin%C3%A9franco",
+        "est": "1997",
+        "city": "Toronto",
+        "country": "Ontario",
+        "type": "Francophone",
+        "notes": ""
+    },
+    {
+        "name": "Cinequest Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Cinequest_Film_Festival",
+        "est": "1990",
+        "city": "San Jose",
+        "country": "California",
+        "type": "International",
+        "notes": "The 13-day festival focuses on narrative films and includes shorts and student film programs."
+    },
+    {
+        "name": "CinErotic FilmFest",
+        "url": "https://en.wikipedia.org/wiki/CinErotic_FilmFest",
+        "est": "2010",
+        "city": "Atlanta",
+        "country": "Georgia",
+        "type": "International",
+        "notes": "Featuring sex-positive, erotic cinema and performance by amateurs and independent artists."
+    },
+    {
+        "name": "Cine Pobre Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Cine_Pobre_Film_Festival",
+        "est": "2003",
+        "city": "Baja California Sur",
+        "country": "Mexico",
+        "type": "International",
+        "notes": "Curating The Word's Best Self Funded Films."
+    },
+    {
+        "name": "City University Film Festival",
+        "url": "https://en.wikipedia.org/wiki/City_University_Film_Festival",
+        "est": "2009",
+        "city": "New York City",
+        "country": "New York",
+        "type": "Regional, special interest",
+        "notes": "Official festival of CUNY featuring films by student filmmakers."
+    },
+    {
+        "name": "Cleveland International Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Cleveland_International_Film_Festival",
+        "est": "1977",
+        "city": "Cleveland",
+        "country": "Ohio",
+        "type": "International",
+        "notes": ""
+    },
+    {
+        "name": "COLCOA",
+        "url": "https://en.wikipedia.org/wiki/COLCOA",
+        "est": "1997",
+        "city": "Los Angeles",
+        "country": "California",
+        "type": "International",
+        "notes": "A week of French film premieres in Hollywood - in April."
+    },
+    {
+        "name": "Columbus International Film & Video Festival",
+        "url": "https://en.wikipedia.org/wiki/Columbus_International_Film_%26_Video_Festival",
+        "est": "1953",
+        "city": "Columbus",
+        "country": "Ohio",
+        "type": "International",
+        "notes": "North America's oldest film festival, held annually in November."
+    },
+    {
+        "name": "Coronado Island Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Coronado_Island_Film_Festival",
+        "est": "2016\n",
+        "city": "Coronado",
+        "country": "California",
+        "type": "International\n",
+        "notes": "Annual four day festival with a monthly year round Classic Movie Series."
+    },
+    {
+        "name": "Crested Butte Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Crested_Butte_Film_Festival",
+        "est": "2011",
+        "city": "Crested Butte",
+        "country": "Colorado",
+        "type": "International",
+        "notes": "Held annually in September and the ACT Now award."
+    },
+    {
+        "name": "DALLAS International Film Festival",
+        "url": "https://en.wikipedia.org/wiki/DALLAS_International_Film_Festival",
+        "est": "2006",
+        "city": "Dallas",
+        "country": "Texas",
+        "type": "International",
+        "notes": ""
+    },
+    {
+        "name": "Dances With Films",
+        "url": "https://en.wikipedia.org/wiki/Dances_With_Films",
+        "est": "1998",
+        "city": "Los Angeles",
+        "country": "California",
+        "type": "International",
+        "notes": "The festival of unknowns (i.e. no celebrities)."
+    },
+    {
+        "name": "DC Palestinian Film and Arts Festival",
+        "url": "https://en.wikipedia.org/wiki/DC_Palestinian_Film_and_Arts_Festival",
+        "est": "2011",
+        "city": "Washington, D.C.",
+        "country": "Washington, D.C.",
+        "type": "International",
+        "notes": ""
+    },
+    {
+        "name": "DC Shorts Film Festival",
+        "url": "https://en.wikipedia.org/wiki/DC_Shorts_Film_Festival",
+        "est": "2003",
+        "city": "Washington, D.C.",
+        "country": "Washington, D.C.",
+        "type": "International",
+        "notes": "The largest short film event on the East Coast of the US.[7]"
+    },
+    {
+        "name": "Denver Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Denver_Film_Festival",
+        "est": "1978",
+        "city": "Denver",
+        "country": "Colorado",
+        "type": "International",
+        "notes": "Held annually in November."
+    },
+    {
+        "name": "Denver Underground Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Denver_Underground_Film_Festival",
+        "est": "1997",
+        "city": "Denver",
+        "country": "Colorado",
+        "type": "International",
+        "notes": "Showcasing independent filmmakers and avant-garde cinema since 1997. Held in October."
+    },
+    {
+        "name": "Detroit Windsor International Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Detroit_Windsor_International_Film_Festival",
+        "est": "2008",
+        "city": "Detroit",
+        "country": "Michigan",
+        "type": "International",
+        "notes": "Held annually in June; hosts the annual DWIFF Challenge."
+    },
+    {
+        "name": "Disposable Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Disposable_Film_Festival",
+        "est": "2007",
+        "city": "San Francisco",
+        "country": "California",
+        "type": "International",
+        "notes": "Held annually in January."
+    },
+    {
+        "name": "DOXA Documentary Film Festival",
+        "url": "https://en.wikipedia.org/wiki/DOXA_Documentary_Film_Festival",
+        "est": "1998",
+        "city": "Vancouver",
+        "country": "British Columbia",
+        "type": "International",
+        "notes": "Documentary film festival held annually for ten days in May."
+    },
+    {
+        "name": "Edmonton International Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Edmonton_International_Film_Festival",
+        "est": "1986",
+        "city": "Edmonton",
+        "country": "Alberta",
+        "type": "International",
+        "notes": ""
+    },
+    {
+        "name": "Environmental Film Festival in the Nation's Capital",
+        "url": "https://en.wikipedia.org/wiki/Environmental_Film_Festival_in_the_Nation%27s_Capital",
+        "est": "1993",
+        "city": "Washington, D.C.",
+        "country": "Washington, D.C.",
+        "type": "Special interest, international",
+        "notes": "The largest and longest running environmental film festival in the United States."
+    },
+    {
+        "name": "Etheria Film Night",
+        "url": "https://en.wikipedia.org/wiki/Etheria_Film_Night",
+        "est": "2014",
+        "city": "Los Angeles",
+        "country": "California",
+        "type": "International",
+        "notes": "Features fantasy, horror, science fiction, thriller, and action short films directed by women."
+    },
+    {
+        "name": "Fairy Tales Queer Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Fairy_Tales_Queer_Film_Festival",
+        "est": "1999",
+        "city": "Calgary",
+        "country": "Alberta",
+        "type": "LGBT",
+        "notes": ""
+    },
+    {
+        "name": "Fantasia Festival",
+        "url": "https://en.wikipedia.org/wiki/Fantasia_Festival",
+        "est": "1996",
+        "city": "Montreal",
+        "country": "Quebec",
+        "type": "Special interest",
+        "notes": "Devoted to fantasy, horror, martial arts, and science fiction genres."
+    },
+    {
+        "name": "Fantastic Fest",
+        "url": "https://en.wikipedia.org/wiki/Fantastic_Fest",
+        "est": "2005",
+        "city": "Austin",
+        "country": "Texas",
+        "type": "International, genre",
+        "notes": ""
+    },
+    {
+        "name": "Festival du Nouveau Cinéma",
+        "url": "https://en.wikipedia.org/wiki/Festival_du_Nouveau_Cin%C3%A9ma",
+        "est": "1971",
+        "city": "Montreal",
+        "country": "Quebec",
+        "type": "International",
+        "notes": "An annual independent film festival featuring independent films from around the world."
+    },
+    {
+        "name": "Festival of Cinema NYC",
+        "url": "https://en.wikipedia.org/wiki/Festival_of_Cinema_NYC",
+        "est": "2016\n",
+        "city": "New York",
+        "country": "New York",
+        "type": "International\n",
+        "notes": ""
+    },
+    {
+        "name": "Florida Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Florida_Film_Festival",
+        "est": "1992",
+        "city": "Maitland",
+        "country": "Florida",
+        "type": "International",
+        "notes": "An annual international film festival."
+    },
+    {
+        "name": "Frameline Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Frameline_Film_Festival",
+        "est": "1976",
+        "city": "San Francisco",
+        "country": "California",
+        "type": "Special interest, international",
+        "notes": "The longest-running LGBT film festival in the world."
+    },
+    {
+        "name": "French Film Festival - Richmond, Virginia",
+        "url": "https://en.wikipedia.org/wiki/VCU_French_Film_Festival",
+        "est": "1993",
+        "city": "Richmond",
+        "country": "Virginia",
+        "type": "French",
+        "notes": "Held the last week-end of March, featuring world and American premieres of French-language features and shorts."
+    },
+    {
+        "name": "Full Frame Documentary Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Full_Frame_Documentary_Film_Festival",
+        "est": "1998",
+        "city": "Durham",
+        "country": "North Carolina",
+        "type": "International",
+        "notes": "An annual international event dedicated to non-fiction cinema."
+    },
+    {
+        "name": "Garden State Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Garden_State_Film_Festival",
+        "est": "2003",
+        "city": "Asbury Park",
+        "country": "New Jersey",
+        "type": "International",
+        "notes": "New Jersey's Premier Independent Film Festival, held each spring."
+    },
+    {
+        "name": "GenreBlast Film Festival",
+        "url": "https://en.wikipedia.org/wiki/GenreBlast_Film_Festival",
+        "est": "2016",
+        "city": "Winchester",
+        "country": "Virginia",
+        "type": "International",
+        "notes": "Devoted to horror, fantasy, action, underground, and science fiction genres."
+    },
+    {
+        "name": "GI Film Festival",
+        "url": "https://en.wikipedia.org/wiki/GI_Film_Festival",
+        "est": "2005",
+        "city": "Washington, D.C.San Diego",
+        "country": "D.C.California",
+        "type": "International",
+        "notes": "Held in May and September, with a focus on preserving the stories of American veterans."
+    },
+    {
+        "name": "Gotham Screen Film Festival & Screenplay Contest",
+        "url": "https://en.wikipedia.org/wiki/Gotham_Screen_Film_Festival_%26_Screenplay_Contest",
+        "est": "2007",
+        "city": "New York City",
+        "country": "New York",
+        "type": "International",
+        "notes": "Featuring new American and international cinema, with a competitive screenplay contest."
+    },
+    {
+        "name": "Green Bay Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Green_Bay_Film_Festival",
+        "est": "2010",
+        "city": "De Pere",
+        "country": "Wisconsin",
+        "type": "International",
+        "notes": "Featuring films by independent filmmakers in Wisconsin and around the world."
+    },
+    {
+        "name": "Green Mountain Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Green_Mountain_Film_Festival",
+        "est": "1997",
+        "city": "Montpelier",
+        "country": "Vermont",
+        "type": "International",
+        "notes": "Featuring local, domestic and international films (features, documentaries, shorts, animation)."
+    },
+    {
+        "name": "Guadalajara International Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Guadalajara_International_Film_Festival",
+        "est": "1988",
+        "city": "Guadalajara",
+        "country": "Mexico",
+        "type": "International",
+        "notes": "A week-long film festival held each March."
+    },
+    {
+        "name": "Guanajuato International Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Expresi%C3%B3n_en_Corto_International_Film_Festival",
+        "est": "1997",
+        "city": "San Miguel de AllendeGuanajuato",
+        "country": "Mexico",
+        "type": "International",
+        "notes": "Held annually in July."
+    },
+    {
+        "name": "Gulf Coast Film and Video Festival",
+        "url": "https://en.wikipedia.org/wiki/Gulf_Coast_Film_and_Video_Festival",
+        "est": "1999",
+        "city": "Seabrook",
+        "country": "Texas",
+        "type": "International",
+        "notes": "Featuring new and emerging artists."
+    },
+    {
+        "name": "Hamptons International Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Hamptons_International_Film_Festival",
+        "est": "1993",
+        "city": "East Hampton",
+        "country": "New York",
+        "type": "International",
+        "notes": ""
+    },
+    {
+        "name": "Hawaii International Film Festival (HIFF)",
+        "url": "https://en.wikipedia.org/wiki/Hawaii_International_Film_Festival",
+        "est": "1981",
+        "city": "Honolulu",
+        "country": "Hawaii",
+        "type": "International",
+        "notes": "Held annually in the fall for two weeks, it shows features, documentaries and shorts from Asia, the Pacific, and Hawai`i."
+    },
+    {
+        "name": "Heartland Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Heartland_Film_Festival",
+        "est": "1991",
+        "city": "Indianapolis",
+        "country": "Indiana",
+        "type": "International",
+        "notes": "Held annually, featuring independent films."
+    },
+    {
+        "name": "High Falls Film Festival",
+        "url": "https://en.wikipedia.org/wiki/High_Falls_Film_Festival",
+        "est": "2001",
+        "city": "Rochester",
+        "country": "New York",
+        "type": "International",
+        "notes": "Featuring films by women filmmakers."
+    },
+    {
+        "name": "Highway 61 Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Highway_61_Film_Festival",
+        "est": "2011",
+        "city": "Pine City",
+        "country": "Minnesota",
+        "type": "National",
+        "notes": "Held annually in mid-October, featuring filmmakers in East Central Minnesota and other mid-western American cities."
+    },
+    {
+        "name": "Hollywood Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Hollywood_Film_Festival",
+        "est": "1997",
+        "city": "Los Angeles",
+        "country": "California",
+        "type": "International",
+        "notes": "Annual film festival."
+    },
+    {
+        "name": "Honolulu Film Awards",
+        "url": "https://en.wikipedia.org/wiki/Honolulu_Film_Awards",
+        "est": "2007",
+        "city": "Honolulu",
+        "country": "Hawaii",
+        "type": "International",
+        "notes": "International film festival."
+    },
+    {
+        "name": "Hot Docs Canadian International Documentary Festival",
+        "url": "https://en.wikipedia.org/wiki/Hot_Docs_Canadian_International_Documentary_Festival",
+        "est": "1993",
+        "city": "Toronto",
+        "country": "Ontario",
+        "type": "International",
+        "notes": "North America's largest documentary film festival."
+    },
+    {
+        "name": "Image+Nation",
+        "url": "https://en.wikipedia.org/wiki/Image%2BNation",
+        "est": "1987",
+        "city": "Montreal",
+        "country": "Quebec",
+        "type": "LGBT",
+        "notes": ""
+    },
+    {
+        "name": "imagineNATIVE Film + Media Arts Festival",
+        "url": "https://en.wikipedia.org/wiki/ImagineNATIVE_Film_%2B_Media_Arts_Festival",
+        "est": "1998",
+        "city": "Toronto",
+        "country": "Ontario",
+        "type": "Indigenous",
+        "notes": ""
+    },
+    {
+        "name": "Independent Film Festival of Boston",
+        "url": "https://en.wikipedia.org/wiki/Independent_Film_Festival_of_Boston",
+        "est": "2003",
+        "city": "Boston",
+        "country": "Massachusetts",
+        "type": "International",
+        "notes": "Independent films. Also known as IFFBoston or IFFB. Held annually in April."
+    },
+    {
+        "name": "Indianapolis International Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Indianapolis_International_Film_Festival",
+        "est": "2004",
+        "city": "Indianapolis",
+        "country": "Indiana",
+        "type": "International",
+        "notes": ""
+    },
+    {
+        "name": "Indian Film Festival of Los Angeles",
+        "url": "https://en.wikipedia.org/wiki/Indian_Film_Festival_of_Los_Angeles",
+        "est": "2003",
+        "city": "Los Angeles",
+        "country": "California",
+        "type": "International",
+        "notes": ""
+    },
+    {
+        "name": "Inside Out Toronto Lesbian and Gay Film and Video Festival",
+        "url": "https://en.wikipedia.org/wiki/Inside_Out_Film_and_Video_Festival",
+        "est": "1991",
+        "city": "Toronto",
+        "country": "Ontario",
+        "type": "International",
+        "notes": "Featuring LGBT films, held over 11 days in May."
+    },
+    {
+        "name": "Israeli Film Festival of Philadelphia",
+        "url": "https://en.wikipedia.org/wiki/Israeli_Film_Festival_of_Philadelphia",
+        "est": "1996",
+        "city": "Philadelphia",
+        "country": "Pennsylvania",
+        "type": "International",
+        "notes": "Israeli films. Held annually in February–March."
+    },
+    {
+        "name": "Ivy Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Ivy_Film_Festival",
+        "est": "2001",
+        "city": "Providence",
+        "country": "Rhode Island",
+        "type": "Student",
+        "notes": ""
+    },
+    {
+        "name": "Jacksonville Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Jacksonville_Film_Festival",
+        "est": "2003",
+        "city": "Jacksonville",
+        "country": "Florida",
+        "type": "International",
+        "notes": "Held annually for 4 days in mid-May."
+    },
+    {
+        "name": "Junction North International Documentary Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Junction_North_International_Documentary_Film_Festival",
+        "est": "2013",
+        "city": "Sudbury",
+        "country": "Ontario",
+        "type": "Documentary",
+        "notes": ""
+    },
+    {
+        "name": "KahBang Film Festival",
+        "url": "https://en.wikipedia.org/wiki/KahBang_Film_Festival",
+        "est": "2009",
+        "city": "Bangor",
+        "country": "Maine",
+        "type": "International",
+        "notes": "Held annually August, a four-day music, art, and film festival."
+    },
+    {
+        "name": "Kingston Canadian Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Kingston_Canadian_Film_Festival",
+        "est": "2001",
+        "city": "Kingston",
+        "country": "Ontario",
+        "type": "Canadian",
+        "notes": ""
+    },
+    {
+        "name": "L.A. Comedy Shorts Film Festival",
+        "url": "https://en.wikipedia.org/wiki/L.A._Comedy_Shorts_Film_Festival",
+        "est": "2007",
+        "city": "Los Angeles",
+        "country": "California",
+        "type": "International",
+        "notes": "Held annually in the spring.  Largest comedy short film festival in the United States."
+    },
+    {
+        "name": "Little Rock Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Little_Rock_Film_Festival",
+        "est": "2006",
+        "city": "Little Rock",
+        "country": "Arkansas",
+        "type": "International",
+        "notes": "Featuring regional, national and international filmmakers. Held annually in early June."
+    },
+    {
+        "name": "London Lesbian Film Festival",
+        "url": "https://en.wikipedia.org/wiki/London_Lesbian_Film_Festival",
+        "est": "1991",
+        "city": "London",
+        "country": "Ontario",
+        "type": "LGBT",
+        "notes": ""
+    },
+    {
+        "name": "Long Beach International Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Long_Beach_International_Film_Festival",
+        "est": "2012",
+        "city": "Long Beach",
+        "country": "New York",
+        "type": "International",
+        "notes": "Held annually in late September, featuring independent, studio films, and films on the beach.[8]"
+    },
+    {
+        "name": "Los Angeles Asian Pacific Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Los_Angeles_Asian_Pacific_Film_Festival",
+        "est": "1983",
+        "city": "Los Angeles",
+        "country": "California",
+        "type": "International",
+        "notes": "Showcase of Asian Pacific American and international cinema. Held annually in April–May."
+    },
+    {
+        "name": "Los Angeles Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Los_Angeles_Film_Festival",
+        "est": "1995",
+        "city": "Los Angeles",
+        "country": "California",
+        "type": "International",
+        "notes": "Held annually in June. Showcases independent, feature, documentary and short films, as well as music videos."
+    },
+    {
+        "name": "Louisiana Film Prize",
+        "url": "https://en.wikipedia.org/wiki/Louisiana_Film_Prize",
+        "est": "2012",
+        "city": "Shreveport",
+        "country": "Louisiana",
+        "type": "International",
+        "notes": "A narrative short film contest."
+    },
+    {
+        "name": "Love Your Shorts Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Love_Your_Shorts_Film_Festival",
+        "est": "2011",
+        "city": "Sanford",
+        "country": "Florida",
+        "type": "International",
+        "notes": "Held around Valentine's Day. Features only short films under 30 minutes in length."
+    },
+    {
+        "name": "Macabre Faire Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Macabre_Faire_Film_Festival",
+        "est": "2012",
+        "city": "Long Island",
+        "country": "New York",
+        "type": "International",
+        "notes": "Held twice a year for independent films of the horror, sci-fi, and fantasy genres."
+    },
+    {
+        "name": "Maelstrom International Fantastic Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Maelstrom_International_Fantastic_Film_Festival",
+        "est": "2009",
+        "city": "Seattle",
+        "country": "Washington",
+        "type": "Special interest",
+        "notes": "Devoted to action, animation, fantasy, horror, and science fiction cinema."
+    },
+    {
+        "name": "Magnolia Independent Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Magnolia_Independent_Film_Festival",
+        "est": "1997",
+        "city": "Starkville",
+        "country": "Mississippi",
+        "type": "International and regional",
+        "notes": "Held annually in February for one weekend, featuring short and experimental films."
+    },
+    {
+        "name": "Marda Loop Justice Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Marda_Loop_Justice_Film_Festival",
+        "est": "2006",
+        "city": "Calgary",
+        "country": "Alberta",
+        "type": "International",
+        "notes": "Featuring films dealing with human rights, environmental, and social issues."
+    },
+    {
+        "name": "Marfa Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Marfa_Film_Festival",
+        "est": "2008",
+        "city": "Marfa",
+        "country": "Texas",
+        "type": "International",
+        "notes": "Annual film festival."
+    },
+    {
+        "name": "Margaret Mead Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Margaret_Mead_Film_Festival",
+        "est": "1976",
+        "city": "New York City",
+        "country": "New York",
+        "type": "International",
+        "notes": "The longest-running festival for international documentaries in the US."
+    },
+    {
+        "name": "Martha's Vineyard International Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Martha%27s_Vineyard_International_Film_Festival",
+        "est": "2006",
+        "city": "Vineyard Haven",
+        "country": "Massachusetts",
+        "type": "International",
+        "notes": "Held annually in September, featuring world cinema feature and short films."
+    },
+    {
+        "name": "Martha's Vineyard Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Martha%27s_Vineyard_Film_Festival",
+        "est": "2001",
+        "city": "Chilmark",
+        "country": "Massachusetts",
+        "type": "International",
+        "notes": "Held annually in March, featuring action/activism-inspiring films."
+    },
+    {
+        "name": "Maryland Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Maryland_Film_Festival",
+        "est": "1999",
+        "city": "Baltimore",
+        "country": "Maryland",
+        "type": "International",
+        "notes": "Held annually for 4 days each May."
+    },
+    {
+        "name": "Method Fest Independent Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Method_Fest_Independent_Film_Festival",
+        "est": "1999\n",
+        "city": "",
+        "country": "",
+        "type": "International\n",
+        "notes": "The Method Fest is the Actor's Film Festival, a festival of discovery, seeking breakout-acting performances of emerging stars and established actors in story-driven independent films."
+    },
+    {
+        "name": "Mexico City International Contemporary Film Festival",
+        "url": "https://en.wikipedia.org/wiki/FICCO",
+        "est": "2004",
+        "city": "Mexico City",
+        "country": "Mexico City",
+        "type": "International",
+        "notes": "Also known as FICCO, it is hosted by Cinemex."
+    },
+    {
+        "name": "Miami International Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Miami_International_Film_Festival",
+        "est": "1983",
+        "city": "Miami",
+        "country": "Florida",
+        "type": "International",
+        "notes": "Held annually for 10 days in March."
+    },
+    {
+        "name": "Miami Short Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Miami_Short_Film_Festival",
+        "est": "2002",
+        "city": "Miami",
+        "country": "Florida",
+        "type": "International",
+        "notes": "Held annually for 10 days in mid November."
+    },
+    {
+        "name": "Midwest Ski Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Midwest_Ski_Film_Festival",
+        "est": "2008",
+        "city": "Milwaukee",
+        "country": "Wisconsin",
+        "type": "Regional",
+        "notes": "Takes place each October."
+    },
+    {
+        "name": "Mile High Horror Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Mile_High_Horror_Film_Festival",
+        "est": "2010",
+        "city": "Denver",
+        "country": "Colorado",
+        "type": "International",
+        "notes": "Featuring independent horror, thriller, and sci-fi films from around the world. It takes place annually each October."
+    },
+    {
+        "name": "Mill Valley Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Mill_Valley_Film_Festival",
+        "est": "1978",
+        "city": "Mill Valley",
+        "country": "California",
+        "type": "International",
+        "notes": "Takes place each October, hosted by California Film Institute."
+    },
+    {
+        "name": "Milwaukee Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Milwaukee_Film_Festival",
+        "est": "2009",
+        "city": "Milwaukee",
+        "country": "Wisconsin",
+        "type": "International",
+        "notes": "Takes place each September and October."
+    },
+    {
+        "name": "Milwaukee Short Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Milwaukee_Short_Film_Festival",
+        "est": "1999",
+        "city": "Milwaukee",
+        "country": "Wisconsin",
+        "type": "Regional",
+        "notes": "Takes place each September."
+    },
+    {
+        "name": "Minneapolis St. Paul International Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Minneapolis_St._Paul_International_Film_Festival",
+        "est": "1983",
+        "city": "MinneapolisSt. Paul",
+        "country": "Minnesota",
+        "type": "International",
+        "notes": "Held annually in the spring."
+    },
+    {
+        "name": "Mods & Rockers Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Mods_%26_Rockers_Film_Festival",
+        "est": "1999",
+        "city": "Los Angeles",
+        "country": "California",
+        "type": "Special interest",
+        "notes": "Featuring rock music culture films."
+    },
+    {
+        "name": "Montclair Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Montclair_Film_Festival",
+        "est": "2012",
+        "city": "Montclair",
+        "country": "New Jersey",
+        "type": "International",
+        "notes": "An annual, community-based film festival featuring international filmmakers."
+    },
+    {
+        "name": "Montreal International Documentary Festival",
+        "url": "https://en.wikipedia.org/wiki/Montreal_International_Documentary_Festival",
+        "est": "1998",
+        "city": "Montreal",
+        "country": "Quebec",
+        "type": "International",
+        "notes": ""
+    },
+    {
+        "name": "Montreal World Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Montreal_World_Film_Festival",
+        "est": "1977",
+        "city": "Montreal",
+        "country": "Quebec",
+        "type": "International",
+        "notes": "Largest North American competitive festival. Held late August to Labor Day. Focuses on films from around the world."
+    },
+    {
+        "name": "Monument Valley Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Monument_Valley_Film_Festival",
+        "est": "2007",
+        "city": "Kayenta",
+        "country": "Arizona",
+        "type": "International",
+        "notes": "Held annually in the summer, it is the only film festival on the Navajo Nation."
+    },
+    {
+        "name": "Moondance International Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Moondance_International_Film_Festival",
+        "est": "2000",
+        "city": "Boulder",
+        "country": "Colorado",
+        "type": "International",
+        "notes": "An independent annual film festival and awards competition that takes place in the fall."
+    },
+    {
+        "name": "Nantucket Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Nantucket_Film_Festival",
+        "est": "1996",
+        "city": "Nantucket",
+        "country": "Massachusetts",
+        "type": "International",
+        "notes": "Held annually in June. Has both film and screenplay competitions."
+    },
+    {
+        "name": "Naperville Independent Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Naperville_Independent_Film_Festival",
+        "est": "2008",
+        "city": "Naperville",
+        "country": "Illinois",
+        "type": "International",
+        "notes": "Annual film festival featuring the work of independent filmmakers."
+    },
+    {
+        "name": "Nashville Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Nashville_Film_Festival",
+        "est": "1969",
+        "city": "Nashville",
+        "country": "Tennessee",
+        "type": "International",
+        "notes": "Founded in 1969 as the Sinking Creek Film Celebration. Features feature-length and short films from around the world."
+    },
+    {
+        "name": "National Film Festival for Talented Youth - NFFTY",
+        "url": "https://en.wikipedia.org/wiki/National_Film_Festival_for_Talented_Youth",
+        "est": "2007",
+        "city": "Seattle",
+        "country": "Washington",
+        "type": "International",
+        "notes": "Showcases work by international filmmakers age 24 and under."
+    },
+    {
+        "name": "Native American Film and Video Festival",
+        "url": "https://en.wikipedia.org/wiki/Native_American_Film_and_Video_Festival",
+        "est": "1979",
+        "city": "New York City",
+        "country": "New York",
+        "type": "Indigenous Cinema",
+        "notes": "Bi-annual film festival featuring indigenous works from throughout the Americas."
+    },
+    {
+        "name": "Nevada International Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Nevada_International_Film_Festival",
+        "est": "2009",
+        "city": "Las Vegas",
+        "country": "Nevada",
+        "type": "Independent",
+        "notes": "Annual film festival, featuring American and International cinema."
+    },
+    {
+        "name": "New England Festival of Ibero American Cinema",
+        "url": "https://en.wikipedia.org/wiki/New_England_Festival_of_Ibero_American_Cinema",
+        "est": "2010",
+        "city": "Providence",
+        "country": "Rhode Island",
+        "type": "Latin American",
+        "notes": "Annual competitive film festival featuring Spanish, Portuguese and Latin American films."
+    },
+    {
+        "name": "New Orleans Film Festival",
+        "url": "https://en.wikipedia.org/wiki/New_Orleans_Film_Festival",
+        "est": "1989",
+        "city": "New Orleans",
+        "country": "Louisiana",
+        "type": "International",
+        "notes": "Annual film festival, featuring international feature films and short films."
+    },
+    {
+        "name": "Newport Beach Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Newport_Beach_Film_Festival",
+        "est": "1999",
+        "city": "Newport Beach",
+        "country": "California",
+        "type": "International",
+        "notes": "Founded in 1999, featuring studio and independent films."
+    },
+    {
+        "name": "New York Asian Film Festival",
+        "url": "https://en.wikipedia.org/wiki/New_York_Asian_Film_Festival",
+        "est": "2002",
+        "city": "New York City",
+        "country": "New York",
+        "type": "Special interest",
+        "notes": "Features Asian cinema, especially horror, action, and martial arts genres."
+    },
+    {
+        "name": "New York Film Festival",
+        "url": "https://en.wikipedia.org/wiki/New_York_Film_Festival",
+        "est": "1962",
+        "city": "New York City",
+        "country": "New York",
+        "type": "International",
+        "notes": "One of North America's oldest film festivals."
+    },
+    {
+        "name": "New York International Children's Film Festival",
+        "url": "https://en.wikipedia.org/wiki/New_York_International_Children%27s_Film_Festival",
+        "est": "1997",
+        "city": "New York City",
+        "country": "New York",
+        "type": "International",
+        "notes": "Features short films and features from around the world."
+    },
+    {
+        "name": "New York Polish Film Festival",
+        "url": "https://en.wikipedia.org/wiki/New_York_Polish_Film_Festival",
+        "est": "2005",
+        "city": "New York City",
+        "country": "New York",
+        "type": "Special interest",
+        "notes": "Dedicated to the cinema of Poland."
+    },
+    {
+        "name": "Northeast Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Northeast_Film_Festival",
+        "est": "2013",
+        "city": "Teaneck",
+        "country": "New Jersey",
+        "type": "International",
+        "notes": "Competition in features, shorts, documentaries and student films. Held annually in September."
+    },
+    {
+        "name": "Northwest Film Fest",
+        "url": "https://en.wikipedia.org/wiki/Northwest_Film_Fest",
+        "est": "1993",
+        "city": "Thunder Bay",
+        "country": "Ontario",
+        "type": "International",
+        "notes": ""
+    },
+    {
+        "name": "Northwest Filmmakers' Festival",
+        "url": "https://en.wikipedia.org/wiki/Northwest_Filmmakers%27_Festival",
+        "est": "1973\n",
+        "city": "",
+        "country": "",
+        "type": "Independent\n",
+        "notes": "Competition in features, shorts, and documentaries made by filmmakers in Oregon, Washington, Idaho, Alaska and British Columbia. Held annually in November."
+    },
+    {
+        "name": "Oaxaca Film Fest",
+        "url": "https://en.wikipedia.org/wiki/Oaxaca_Film_Fest",
+        "est": "2010",
+        "city": "Oaxaca",
+        "country": "Mexico",
+        "type": "International",
+        "notes": "Held annually in November."
+    },
+    {
+        "name": "Orlando Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Orlando_Film_Festival",
+        "est": "2006",
+        "city": "Orlando",
+        "country": "Florida",
+        "type": "International",
+        "notes": "Held annually in October/November."
+    },
+    {
+        "name": "Ottawa International Animation Festival",
+        "url": "https://en.wikipedia.org/wiki/Ottawa_International_Animation_Festival",
+        "est": "1976\n",
+        "city": "",
+        "country": "",
+        "type": "International\n",
+        "notes": "Held annual in September"
+    },
+    {
+        "name": "Palm Springs International Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Palm_Springs_International_Film_Festival",
+        "est": "1989",
+        "city": "Palm Springs",
+        "country": "California",
+        "type": "International",
+        "notes": ""
+    },
+    {
+        "name": "Pan African Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Pan_African_Film_Festival",
+        "est": "1992",
+        "city": "Los Angeles",
+        "country": "California",
+        "type": "",
+        "notes": "The largest black film festival in the United States.[9]"
+    },
+    {
+        "name": "Philadelphia Asian American Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Philadelphia_Asian_American_Film_Festival",
+        "est": "2008",
+        "city": "Philadelphia",
+        "country": "Pennsylvania",
+        "type": "Special interest",
+        "notes": ""
+    },
+    {
+        "name": "Philadelphia Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Philadelphia_Film_Festival",
+        "est": "1991",
+        "city": "Philadelphia",
+        "country": "Pennsylvania",
+        "type": "International",
+        "notes": ""
+    },
+    {
+        "name": "Philadelphia Jewish Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Philadelphia_Jewish_Film_Festival",
+        "est": "1981",
+        "city": "Philadelphia",
+        "country": "Pennsylvania",
+        "type": "International",
+        "notes": "The second-oldest Jewish-specific film festival in the United States"
+    },
+    {
+        "name": "Philadelphia QFest",
+        "url": "https://en.wikipedia.org/wiki/Philadelphia_QFest",
+        "est": "1995",
+        "city": "Philadelphia",
+        "country": "Pennsylvania",
+        "type": "International",
+        "notes": "Originally the Philadelphia International Gay and Lesbian Film Festival."
+    },
+    {
+        "name": "Québec City Film Festival (QCFF)",
+        "url": "https://en.wikipedia.org/wiki/Qu%C3%A9bec_City_Film_Festival",
+        "est": "2011\n",
+        "city": "Quebec City",
+        "country": "Quebec",
+        "type": "International\n",
+        "notes": "Held annually in September, screens short and featured films."
+    },
+    {
+        "name": "Queer City Cinema",
+        "url": "https://en.wikipedia.org/wiki/Queer_City_Cinema",
+        "est": "1996",
+        "city": "Regina",
+        "country": "Saskatchewan",
+        "type": "LGBT",
+        "notes": ""
+    },
+    {
+        "name": "Queer North Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Queer_North_Film_Festival",
+        "est": "2016",
+        "city": "Sudbury",
+        "country": "Ontario",
+        "type": "LGBT",
+        "notes": ""
+    },
+    {
+        "name": "Rainbow Visions Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Rainbow_Visions_Film_Festival",
+        "est": "2015",
+        "city": "Edmonton",
+        "country": "Alberta",
+        "type": "LGBT",
+        "notes": ""
+    },
+    {
+        "name": "Red Rock Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Red_Rock_Film_Festival",
+        "est": "2004",
+        "city": "Zion CanyonSt. GeorgeSpringdaleIvins",
+        "country": "Utah",
+        "type": "International",
+        "notes": "Held annually in November."
+    },
+    {
+        "name": "Reel Rock Film Tour",
+        "url": "https://en.wikipedia.org/wiki/Reel_Rock_Film_Tour",
+        "est": "2006",
+        "city": "Boulder",
+        "country": "Colorado",
+        "type": "International",
+        "notes": "Held annually, climbing and adventure films."
+    },
+    {
+        "name": "Reel Shorts Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Reel_Shorts_Film_Festival",
+        "est": "2007",
+        "city": "Grande Prairie",
+        "country": "Alberta",
+        "type": "International",
+        "notes": "Festival of short films held annually for 5 days in early May."
+    },
+    {
+        "name": "Reel Pride",
+        "url": "https://en.wikipedia.org/wiki/Reel_Pride",
+        "est": "1987",
+        "city": "Winnipeg",
+        "country": "Manitoba",
+        "type": "LGBT",
+        "notes": ""
+    },
+    {
+        "name": "Reelout Queer Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Reelout_Queer_Film_Festival",
+        "est": "1999",
+        "city": "Kingston",
+        "country": "Ontario",
+        "type": "LGBT",
+        "notes": ""
+    },
+    {
+        "name": "ReelWorld Film Festival",
+        "url": "https://en.wikipedia.org/wiki/ReelWorld_Film_Festival",
+        "est": "2001",
+        "city": "Toronto",
+        "country": "Ontario",
+        "type": "International",
+        "notes": "Screens films and music videos by filmmakers from racially diverse communities."
+    },
+    {
+        "name": "Rhode Island International Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Rhode_Island_International_Film_Festival",
+        "est": "1997",
+        "city": "Providence",
+        "country": "Rhode Island",
+        "type": "International",
+        "notes": "Held annually for 6 days during the second week of August"
+    },
+    {
+        "name": "RiverRun International Film Festival",
+        "url": "https://en.wikipedia.org/wiki/RiverRun_International_Film_Festival",
+        "est": "1998",
+        "city": "Winston-Salem",
+        "country": "North Carolina",
+        "type": "International",
+        "notes": "Held annually each Spring."
+    },
+    {
+        "name": "Rocky Mountain Women's Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Rocky_Mountain_Women%27s_Film_Festival",
+        "est": "1987",
+        "city": "Colorado Springs",
+        "country": "Colorado",
+        "type": "International",
+        "notes": "Held annually in early November showcasing films made by women."
+    },
+    {
+        "name": "Ebertfest",
+        "url": "https://en.wikipedia.org/wiki/Ebertfest",
+        "est": "1997",
+        "city": "Champaign",
+        "country": "Illinois",
+        "type": "Special interest",
+        "notes": "Founded by the film critic."
+    },
+    {
+        "name": "Rooftop Films",
+        "url": "https://en.wikipedia.org/wiki/Rooftop_Films",
+        "est": "1997",
+        "city": "New York City",
+        "country": "New York",
+        "type": "International",
+        "notes": "A summer-long outdoor festival that screens new independent films on rooftops and other outdoor spots."
+    },
+    {
+        "name": "Sacramento Film and Music Festival",
+        "url": "https://en.wikipedia.org/wiki/Sacramento_Film_and_Music_Festival",
+        "est": "2000",
+        "city": "Sacramento",
+        "country": "California",
+        "type": "International",
+        "notes": "Juried, all genre, includes student section, 10 days, late July."
+    },
+    {
+        "name": "San Antonio Film Festival",
+        "url": "https://en.wikipedia.org/wiki/San_Antonio_Film_Festival",
+        "est": "1994",
+        "city": "San Antonio",
+        "country": "Texas",
+        "type": "International",
+        "notes": "Held annually in the month of June. Awards"
+    },
+    {
+        "name": "San Diego Asian Film Festival",
+        "url": "https://en.wikipedia.org/wiki/San_Diego_Asian_Film_Festival",
+        "est": "2000\n",
+        "city": "San Diego",
+        "country": "California",
+        "type": "International\n",
+        "notes": "Held annually in November, with a spring showcase in April."
+    },
+    {
+        "name": "San Diego Black Film Festival",
+        "url": "https://en.wikipedia.org/wiki/San_Diego_Black_Film_Festival",
+        "est": "2002",
+        "city": "San Diego",
+        "country": "California",
+        "type": "International",
+        "notes": ""
+    },
+    {
+        "name": "San Diego International Film Festival",
+        "url": "https://en.wikipedia.org/wiki/San_Diego_International_Film_Festival",
+        "est": "2001",
+        "city": "San DiegoLa Jolla",
+        "country": "California",
+        "type": "International",
+        "notes": "Held in October, a five-day independent film festival."
+    },
+    {
+        "name": "San Francisco Frozen Film Festival",
+        "url": "https://en.wikipedia.org/wiki/S.F._Frozen_Film_Festival",
+        "est": "2006",
+        "city": "San Francisco",
+        "country": "California",
+        "type": "Special interest, independent",
+        "notes": ""
+    },
+    {
+        "name": "Sanford International Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Sanford_International_Film_Festival",
+        "est": "2014",
+        "city": "Sanford",
+        "country": "Maine",
+        "type": "Independent, horror, international",
+        "notes": "Held in October. Dedicated to independent films, with a night dedicated to horror."
+    },
+    {
+        "name": "San Francisco Green Film Festival",
+        "url": "https://en.wikipedia.org/wiki/San_Francisco_Green_Film_Festival",
+        "est": "2011",
+        "city": "San Francisco",
+        "country": "California",
+        "type": "Special interest, international",
+        "notes": "Dedicated to environmental films."
+    },
+    {
+        "name": "San Francisco International Asian American Film Festival",
+        "url": "https://en.wikipedia.org/wiki/San_Francisco_International_Asian_American_Film_Festival",
+        "est": "1982",
+        "city": "San Francisco",
+        "country": "California",
+        "type": "Special interest, international",
+        "notes": "Dedicated to Asian and Asian American films."
+    },
+    {
+        "name": "San Francisco International Film Festival",
+        "url": "https://en.wikipedia.org/wiki/San_Francisco_International_Film_Festival",
+        "est": "1957",
+        "city": "San Francisco",
+        "country": "California",
+        "type": "International",
+        "notes": ""
+    },
+    {
+        "name": "San Francisco Jewish Film Festival",
+        "url": "https://en.wikipedia.org/wiki/San_Francisco_Jewish_Film_Festival",
+        "est": "1980",
+        "city": "San Francisco",
+        "country": "California",
+        "type": "Special interest, international",
+        "notes": ""
+    },
+    {
+        "name": "Santa Barbara International Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Santa_Barbara_International_Film_Festival",
+        "est": "1985",
+        "city": "Santa Barbara",
+        "country": "California",
+        "type": "International",
+        "notes": ""
+    },
+    {
+        "name": "Santa Fe Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Santa_Fe_Film_Festival",
+        "est": "1999",
+        "city": "Santa Fe",
+        "country": "New Mexico",
+        "type": "International",
+        "notes": "Highlighting New Mexican film, new American and foreign films."
+    },
+    {
+        "name": "Sarasota Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Sarasota_Film_Festival",
+        "est": "1999",
+        "city": "Sarasota",
+        "country": "Florida",
+        "type": "International",
+        "notes": ""
+    },
+    {
+        "name": "Science Fiction Fantasy Short Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Science_Fiction_Fantasy_Short_Film_Festival",
+        "est": "2006",
+        "city": "Seattle",
+        "country": "Washington",
+        "type": "Special interest",
+        "notes": "Devoted to action, animation, fantasy, and science fiction cinema."
+    },
+    {
+        "name": "Seattle International Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Seattle_International_Film_Festival",
+        "est": "1976",
+        "city": "Seattle",
+        "country": "Washington",
+        "type": "International",
+        "notes": "Largest film festival in the United States, held annually from May-June."
+    },
+    {
+        "name": "Sedona Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Sedona_Film_Festival",
+        "est": "1994",
+        "city": "Sedona",
+        "country": "Arizona",
+        "type": "International",
+        "notes": ""
+    },
+    {
+        "name": "Slamdance Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Slamdance_Film_Festival",
+        "est": "1995",
+        "city": "Park City",
+        "country": "Utah",
+        "type": "International",
+        "notes": "Focused on emerging filmmakers and low-budget independent films."
+    },
+    {
+        "name": "Sidewalk Moving Picture Festival",
+        "url": "https://en.wikipedia.org/wiki/Sidewalk_Moving_Picture_Festival",
+        "est": "1999",
+        "city": "Birmingham",
+        "country": "Alabama",
+        "type": "International",
+        "notes": "Held annually the last weekend in August."
+    },
+    {
+        "name": "Sonoma Valley Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Sonoma_Valley_Film_Festival",
+        "est": "1996",
+        "city": "Sonoma",
+        "country": "California",
+        "type": "International",
+        "notes": ""
+    },
+    {
+        "name": "South by Southwest",
+        "url": "https://en.wikipedia.org/wiki/South_by_Southwest",
+        "est": "1987",
+        "city": "Austin",
+        "country": "Texas",
+        "type": "Special interest",
+        "notes": "A set of film, interactive, and music festivals."
+    },
+    {
+        "name": "Southern Utah International Documentary Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Southern_Utah_International_Documentary_Film_Festival",
+        "est": "2009",
+        "city": "St. George",
+        "country": "Utah",
+        "type": "International",
+        "notes": "Held annually for one week in September."
+    },
+    {
+        "name": "St. John’s International Women’s Film Festival",
+        "url": "https://en.wikipedia.org/wiki/St._John%E2%80%99s_International_Women%E2%80%99s_Film_Festival",
+        "est": "1989\n",
+        "city": "St. John's",
+        "country": "Newfoundland and Labrador",
+        "type": "International\n",
+        "notes": "Screens films made by women, to promote gender parity in filmmaking"
+    },
+    {
+        "name": "Sundance Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Sundance_Film_Festival",
+        "est": "1978",
+        "city": "Park CitySalt Lake CityOgdenSundance",
+        "country": "Utah",
+        "type": "International",
+        "notes": "Held annually in January, Sundance is the largest independent film festival in the United States."
+    },
+    {
+        "name": "Tallgrass Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Tallgrass_Film_Festival",
+        "est": "2003",
+        "city": "Wichita",
+        "country": "Kansas",
+        "type": "International",
+        "notes": "This four-day festival, held in October, screens independent short and feature films."
+    },
+    {
+        "name": "Telluride Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Telluride_Film_Festival",
+        "est": "1974",
+        "city": "Telluride",
+        "country": "Colorado",
+        "type": "International",
+        "notes": "Held annually over Labor Day Weekend."
+    },
+    {
+        "name": "Telluride Mountainfilm",
+        "url": "https://en.wikipedia.org/wiki/Telluride_Mountainfilm",
+        "est": "1979",
+        "city": "Telluride",
+        "country": "Colorado",
+        "type": "Independent",
+        "notes": "The oldest film festival celebrating the genre of mountain film in the US."
+    },
+    {
+        "name": "Three Rivers Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Three_Rivers_Film_Festival",
+        "est": "1982",
+        "city": "Pittsburgh",
+        "country": "Pennsylvania",
+        "type": "International",
+        "notes": "Emphasizing independent film."
+    },
+    {
+        "name": "Toronto After Dark Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Toronto_After_Dark_Film_Festival",
+        "est": "2006",
+        "city": "Toronto",
+        "country": "Ontario",
+        "type": "Special interest",
+        "notes": "Annual festival of horror, sci-fi, action, and cult cinema."
+    },
+    {
+        "name": "Toronto International Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Toronto_International_Film_Festival",
+        "est": "1976",
+        "city": "Toronto",
+        "country": "Ontario",
+        "type": "International",
+        "notes": "Held annually in September."
+    },
+    {
+        "name": "Toronto Reel Asian International Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Toronto_Reel_Asian_International_Film_Festival",
+        "est": "1997",
+        "city": "Toronto",
+        "country": "Ontario",
+        "type": "Special Interest",
+        "notes": "Featuring Asian films."
+    },
+    {
+        "name": "Toronto Student Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Toronto_Student_Film_Festival",
+        "est": "2005",
+        "city": "Toronto",
+        "country": "Ontario",
+        "type": "International",
+        "notes": "Screens films made by students from 12–18 years old."
+    },
+    {
+        "name": "Traverse City Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Traverse_City_Film_Festival",
+        "est": "2005",
+        "city": "Traverse City",
+        "country": "Michigan",
+        "type": "International",
+        "notes": "Founded by documentary film maker Michael Moore. Held annually in late July - early August"
+    },
+    {
+        "name": "Tribeca Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Tribeca_Film_Festival",
+        "est": "2002",
+        "city": "New York City",
+        "country": "New York",
+        "type": "International",
+        "notes": "Founded by Jane Rosenthal and Robert De Niro."
+    },
+    {
+        "name": "True/False Film Festival",
+        "url": "https://en.wikipedia.org/wiki/True/False_Film_Festival",
+        "est": "2004",
+        "city": "Columbia",
+        "country": "Missouri",
+        "type": "Documentary",
+        "notes": "Documentary film festival."
+    },
+    {
+        "name": "Vancouver Asian Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Vancouver_Asian_Film_Festival",
+        "est": "1995",
+        "city": "Vancouver",
+        "country": "British Columbia",
+        "type": "International",
+        "notes": "Asian film festival. Held annually for 4–5 days in November."
+    },
+    {
+        "name": "Vancouver International Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Vancouver_International_Film_Festival",
+        "est": "1982",
+        "city": "Vancouver",
+        "country": "British Columbia",
+        "type": "International",
+        "notes": "Held annually for two weeks in late September and early October."
+    },
+    {
+        "name": "Vancouver Queer Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Vancouver_Queer_Film_Festival",
+        "est": "1988",
+        "city": "Vancouver",
+        "country": "British Columbia",
+        "type": "International",
+        "notes": "LGBT film festival. Held annually for eleven days in late August."
+    },
+    {
+        "name": "Ventura film festival",
+        "url": "https://en.wikipedia.org/wiki/Ventura_film_festival",
+        "est": "2004",
+        "city": "Ventura",
+        "country": "California",
+        "type": "International",
+        "notes": ""
+    },
+    {
+        "name": "Vietnamese International Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Vietnamese_International_Film_Festival",
+        "est": "2003",
+        "city": "Los Angeles",
+        "country": "California",
+        "type": "Vietnamese",
+        "notes": "Biennial film festival for Vietnamese filmmakers."
+    },
+    {
+        "name": "Virginia Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Virginia_Film_Festival",
+        "est": "1987",
+        "city": "Charlottesville",
+        "country": "Virginia",
+        "type": "International",
+        "notes": "Hosted by the University of Virginia."
+    },
+    {
+        "name": "Vox Popular Media Arts Festival",
+        "url": "https://en.wikipedia.org/wiki/Vox_Popular_Media_Arts_Festival",
+        "est": "2005",
+        "city": "Thunder Bay",
+        "country": "Ontario",
+        "type": "International",
+        "notes": ""
+    },
+    {
+        "name": "Waterloo Festival for Animated Cinema",
+        "url": "https://en.wikipedia.org/wiki/Waterloo_Festival_for_Animated_Cinema",
+        "est": "2001",
+        "city": "Waterloo",
+        "country": "Ontario",
+        "type": "International",
+        "notes": "Screens feature animation. Held annually in November."
+    },
+    {
+        "name": "Whistler Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Whistler_Film_Festival",
+        "est": "2001",
+        "city": "Whistler",
+        "country": "British Columbia",
+        "type": "International",
+        "notes": ""
+    },
+    {
+        "name": "Wisconsin Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Wisconsin_Film_Festival",
+        "est": "1999",
+        "city": "Madison",
+        "country": "Wisconsin",
+        "type": "International",
+        "notes": "Screens independent and international documentary, narrative, experimental, student and animated films."
+    },
+    {
+        "name": "Woodstock Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Woodstock_Film_Festival",
+        "est": "1999",
+        "city": "Woodstock",
+        "country": "New York",
+        "type": "International",
+        "notes": "Features independent films."
+    },
+    {
+        "name": "World Music & Independent Film Festival",
+        "url": "https://en.wikipedia.org/wiki/World_Music_%26_Independent_Film_Festival",
+        "est": "2009",
+        "city": "Washington, D.C.",
+        "country": "Washington, D.C.",
+        "type": "International",
+        "notes": "Screens independent and international music videos and independent films"
+    },
+    {
+        "name": "WorldFest-Houston International Film Festival",
+        "url": "https://en.wikipedia.org/wiki/WorldFest-Houston_International_Film_Festival",
+        "est": "1968",
+        "city": "Houston",
+        "country": "Texas",
+        "type": "International",
+        "notes": ""
+    },
+    {
+        "name": "Yorkton Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Yorkton_Film_Festival",
+        "est": "1950",
+        "city": "Yorkton",
+        "country": "Saskatchewan",
+        "type": "Independent",
+        "notes": "Features Canadian films and filmmakers."
+    },
+    {
+        "name": "The YoungCuts Film Festival",
+        "url": "https://en.wikipedia.org/wiki/The_YoungCuts_Film_Festival",
+        "est": "2005",
+        "city": "Montreal",
+        "country": "Quebec",
+        "type": "International",
+        "notes": "Focuses on young filmmakers."
+    },
+    {
+        "name": "Young People's Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Young_People%27s_Film_Festival",
+        "est": "1976",
+        "city": "Portland",
+        "country": "Oregon",
+        "type": "Youth, regional",
+        "notes": "Features works of filmmakers grades K-12 living in Alaska, Idaho, Montana, Oregon, Utah, and Washington."
+    },
+    {
+        "name": "Zero Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Zero_Film_Festival",
+        "est": "2007",
+        "city": "New York CityLos AngelesMiami Beach",
+        "country": "New YorkCaliforniaFlorida",
+        "type": "Self-financed cinema",
+        "notes": "Exclusive to self-financed filmmakers."
+    },
+    {
+        "name": "Adelaide Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Adelaide_Film_Festival",
+        "est": "2002",
+        "city": "Adelaide",
+        "country": "Australia",
+        "type": "International",
+        "notes": "A biennial, non-competitive film festival held over two weeks in late February."
+    },
+    {
+        "name": "Brisbane International Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Brisbane_International_Film_Festival",
+        "est": "1992",
+        "city": "Brisbane",
+        "country": "Australia",
+        "type": "International",
+        "notes": "Focuses on films from the Pacific Rim."
+    },
+    {
+        "name": "Byron Bay Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Byron_Bay_Film_Festival",
+        "est": "2006",
+        "city": "Byron Bay",
+        "country": "Australia",
+        "type": "International",
+        "notes": ""
+    },
+    {
+        "name": "Canberra International Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Canberra_International_Film_Festival",
+        "est": "1996",
+        "city": "Canberra",
+        "country": "Australia",
+        "type": "International",
+        "notes": "Held annually in October."
+    },
+    {
+        "name": "Documentary Edge Festival",
+        "url": "https://en.wikipedia.org/wiki/Documentary_Edge_Festival",
+        "est": "2005",
+        "city": "AucklandWellington",
+        "country": "",
+        "type": "International",
+        "notes": "Held annually from April to June, featuring documentary films from New Zealand and around the world."
+    },
+    {
+        "name": "Dungog Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Dungog_Film_Festival",
+        "est": "2007",
+        "city": "Dungog",
+        "country": "Australia",
+        "type": "Australian",
+        "notes": "Features new and classic Australian films."
+    },
+    {
+        "name": "Indian Film Festival of Melbourne",
+        "url": "https://en.wikipedia.org/wiki/Indian_Film_Festival_of_Melbourne",
+        "est": "2010",
+        "city": "Melbourne",
+        "country": "Australia",
+        "type": "Indian and sub-continent",
+        "notes": "Held annually in August, featuring Indian cinema."
+    },
+    {
+        "name": "Mardi Gras Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Mardi_Gras_Film_Festival",
+        "est": "1978",
+        "city": "Sydney",
+        "country": "Australia",
+        "type": "International",
+        "notes": "Held annually in February–March"
+    },
+    {
+        "name": "Melbourne International Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Melbourne_International_Film_Festival",
+        "est": "1951",
+        "city": "",
+        "country": "Australia",
+        "type": "International",
+        "notes": "Held annually in July or August."
+    },
+    {
+        "name": "New Zealand International Film Festivals",
+        "url": "https://en.wikipedia.org/wiki/New_Zealand_International_Film_Festivals",
+        "est": "1970",
+        "city": "",
+        "country": "New Zealand",
+        "type": "International",
+        "notes": "Held in Auckland, Wellington, Dunedin, and Christchurch, the traveling festival offers a smaller program in 10 other cities."
+    },
+    {
+        "name": "A Night of Horror International Film Festival",
+        "url": "https://en.wikipedia.org/wiki/A_Night_of_Horror_International_Film_Festival",
+        "est": "2006",
+        "city": "Sydney",
+        "country": "Australia",
+        "type": "International",
+        "notes": "Featuring horror films."
+    },
+    {
+        "name": "Revelation Perth International Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Revelation_Perth_International_Film_Festival",
+        "est": "1997",
+        "city": "Perth",
+        "country": "Australia",
+        "type": "International",
+        "notes": "Annually in July; features independent feature films, documentaries, short films, and experimental works."
+    },
+    {
+        "name": "Show Me Shorts",
+        "url": "https://en.wikipedia.org/wiki/Show_Me_Shorts",
+        "est": "2006",
+        "city": "",
+        "country": "",
+        "type": "International",
+        "notes": "Annual short film festival."
+    },
+    {
+        "name": "Sydney Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Sydney_Film_Festival",
+        "est": "1954",
+        "city": "Sydney",
+        "country": "Australia",
+        "type": "International",
+        "notes": "Held annually for two weeks in June."
+    },
+    {
+        "name": "Tropfest",
+        "url": "https://en.wikipedia.org/wiki/Tropfest",
+        "est": "1993",
+        "city": "Sydney",
+        "country": "Australia",
+        "type": "International",
+        "notes": "Annual short film festival."
+    },
+    {
+        "name": "Anima Mundi",
+        "url": "https://en.wikipedia.org/wiki/Anima_Mundi_(event)",
+        "est": "1992",
+        "city": "Rio de JaneiroSão Paulo",
+        "country": "Brazil",
+        "type": "Regional, special interest",
+        "notes": "Competitive Brazilian video and film festival devoted exclusively to animation."
+    },
+    {
+        "name": "Buenos Aires International Festival of Independent Cinema",
+        "url": "https://en.wikipedia.org/wiki/Buenos_Aires_International_Festival_of_Independent_Cinema",
+        "est": "1999",
+        "city": "Buenos Aires",
+        "country": "Argentina",
+        "type": "International",
+        "notes": "Held annually in April."
+    },
+    {
+        "name": "Buenos Aires Rojo Sangre",
+        "url": "https://en.wikipedia.org/wiki/Buenos_Aires_Rojo_Sangre",
+        "est": "2000",
+        "city": "Buenos Aires",
+        "country": "Argentina",
+        "type": "International",
+        "notes": "Devoted to fantasy, horror, bizarre and science fiction genres."
+    },
+    {
+        "name": "CayFilm Cayman Islands International Film Festival",
+        "url": "https://en.wikipedia.org/wiki/CayFilm_Cayman_Islands_International_Film_Festival",
+        "est": "2013",
+        "city": "George Town",
+        "country": "Cayman Islands",
+        "type": "International",
+        "notes": ""
+    },
+    {
+        "name": "Cartagena Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Cartagena_Film_Festival",
+        "est": "1960",
+        "city": "Cartagena",
+        "country": "Colombia",
+        "type": "Regional",
+        "notes": "Showcases Ibero-American feature films, shorts, and videos, as well as a national television competition."
+    },
+    {
+        "name": "Córdoba International Animation Festival - ANIMA",
+        "url": "https://en.wikipedia.org/wiki/C%C3%B3rdoba_International_Animation_Festival_-_ANIMA",
+        "est": "2001",
+        "city": "Córdoba",
+        "country": "Argentina",
+        "type": "International, special interest",
+        "notes": "It is held biennially, on odd years, during September."
+    },
+    {
+        "name": "Festival de Cine de Bogotá",
+        "url": "https://en.wikipedia.org/wiki/Cinema_of_Colombia",
+        "est": "1984",
+        "city": "Bogotá",
+        "country": "Colombia",
+        "type": "International",
+        "notes": "Held annually in October."
+    },
+    {
+        "name": "Gramado Brazilian and Latin American Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Festival_de_Gramado",
+        "est": "1973",
+        "city": "Gramado",
+        "country": "Brazil",
+        "type": "Latin American",
+        "notes": "Held annually in August. Its awards are named the Kikitos."
+    },
+    {
+        "name": "Havana Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Havana_Film_Festival",
+        "est": "1979",
+        "city": "Havana",
+        "country": "Cuba",
+        "type": "Regional",
+        "notes": "Held annually, with a principal focus on Latin American film."
+    },
+    {
+        "name": "Lusca Fantastic Film Fest",
+        "url": "https://en.wikipedia.org/wiki/Lusca_Fantastic_Film_Fest",
+        "est": "2007",
+        "city": "San Juan",
+        "country": "Puerto Rico",
+        "type": "International",
+        "notes": "Held annually in October, with parallel events ranging from a fashion show to a zombie walk."
+    },
+    {
+        "name": "Mar del Plata Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Mar_del_Plata_Film_Festival",
+        "est": "1954",
+        "city": "Mar del Plata",
+        "country": "Argentina",
+        "type": "International",
+        "notes": "Held annually in November, with a principal focus on independent and Latin American film."
+    },
+    {
+        "name": "Recife Cinema Festival",
+        "url": "https://en.wikipedia.org/wiki/Recife_Cinema_Festival",
+        "est": "1997",
+        "city": "Recife",
+        "country": "Brazil",
+        "type": "Brazilian",
+        "notes": "Competitive Brazilian film and audiovisual. Its awards are named Calunga. Held annually in April/May."
+    },
+    {
+        "name": "Rio de Janeiro International Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Festival_do_Rio",
+        "est": "1998",
+        "city": "Rio de Janeiro",
+        "country": "Brazil",
+        "type": "International",
+        "notes": "Held annually in October."
+    },
+    {
+        "name": "Santiago International Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Santiago_International_Film_Festival",
+        "est": "2005",
+        "city": "Santiago",
+        "country": "Chile",
+        "type": "International",
+        "notes": "There are two main competitions at SANFIC: the International Competition, and a Chilean Cinema Competition, each featuring nine shortlisted films. Held annually in October."
+    },
+    {
+        "name": "São Paulo International Film Festival",
+        "url": "https://en.wikipedia.org/wiki/S%C3%A3o_Paulo_International_Film_Festival",
+        "est": "1976",
+        "city": "São Paulo",
+        "country": "Brazil",
+        "type": "International",
+        "notes": ""
+    },
+    {
+        "name": "Trinidad and Tobago Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Trinidad_and_Tobago_Film_Festival",
+        "est": "2006",
+        "city": "Trinidad and Tobago",
+        "country": "Trinidad and Tobago",
+        "type": "International",
+        "notes": "Held annually in the second half of September, featuring films from the Caribbean and world cinema."
+    },
+    {
+        "name": "Valdivia International Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Valdivia_International_Film_Festival",
+        "est": "1993",
+        "city": "Valdivia",
+        "country": "Chile",
+        "type": "International",
+        "notes": "International film exhibition and competition, held annually in September/October"
+    },
+    {
+        "name": "Viña del Mar International Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Vi%C3%B1a_del_Mar_International_Film_Festival",
+        "est": "1962",
+        "city": "Viña del Mar",
+        "country": "Chile",
+        "type": "Latin American",
+        "notes": "Held annually in the second half of October, featuring films and documentary films from Latin America."
+    },
+    {
+        "name": "Sacramento French Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Sacramento_French_Film_Festival",
+        "est": "2002",
+        "city": "",
+        "country": "",
+        "type": "",
+        "notes": ""
+    },
+    {
+        "name": "48 Hour Film Project",
+        "url": "https://en.wikipedia.org/wiki/48_Hour_Film_Project",
+        "est": "2001",
+        "city": "",
+        "country": "",
+        "type": "",
+        "notes": ""
+    },
+    {
+        "name": "Campus MovieFest",
+        "url": "https://en.wikipedia.org/wiki/Campus_MovieFest",
+        "est": "2001",
+        "city": "",
+        "country": "",
+        "type": "",
+        "notes": ""
+    },
+    {
+        "name": "CON-CAN Movie Festival",
+        "url": "https://en.wikipedia.org/wiki/CON-CAN_Movie_Festival",
+        "est": "2005",
+        "city": "TokyoJapan",
+        "country": "",
+        "type": "",
+        "notes": ""
+    },
+    {
+        "name": "Dawn Breakers International Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Dawn_Breakers_International_Film_Festival",
+        "est": "2007",
+        "city": "",
+        "country": "",
+        "type": "",
+        "notes": ""
+    },
+    {
+        "name": "Filminute",
+        "url": "https://en.wikipedia.org/wiki/Filminute",
+        "est": "2006",
+        "city": "",
+        "country": "",
+        "type": "",
+        "notes": ""
+    },
+    {
+        "name": "International Random Film Festival",
+        "url": "https://en.wikipedia.org/wiki/International_Random_Film_Festival",
+        "est": "2009",
+        "city": "",
+        "country": "",
+        "type": "",
+        "notes": ""
+    },
+    {
+        "name": "Spike and Mike's Festival of Animation",
+        "url": "https://en.wikipedia.org/wiki/Spike_and_Mike%27s_Festival_of_Animation",
+        "est": "1977",
+        "city": "",
+        "country": "",
+        "type": "",
+        "notes": ""
+    },
+    {
+        "name": "Zero Film Festival",
+        "url": "https://en.wikipedia.org/wiki/Zero_Film_Festival",
+        "est": "2008",
+        "city": "",
+        "country": "",
+        "type": "",
+        "notes": ""
     }
 ]

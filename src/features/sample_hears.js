@@ -1,7 +1,5 @@
-/**
- * Copyright (c) Microsoft Corporation. All rights reserved.
- * Licensed under the MIT License.
- */
+const { findCommand } = require('../commands/find');
+
 module.exports = function (controller) {
 
     // use a function to match a condition in the message
@@ -20,24 +18,19 @@ module.exports = function (controller) {
     });
 
     // use a regular expression to match the text of the message
-    controller.hears(new RegExp(/\bMy Film\b/), ['message', 'direct_message'], async function (bot, message) {
-        await bot.reply(message, { text: 'Canja the Faria movie festival will be happening right now' });
-    });
-
-    // use a regular expression to match the text of the message
     controller.hears(new RegExp(/\bhelp\b/), ['message', 'direct_message'], async function (bot, message) {
         await bot.reply(message, {
             text: 'List of commands:\n' +
-                '* find <genre>[,<genre>] <location>' +
-                '* list genres: Lists all known film genres associated with a film festival' +
-                '* list locations: Lists all possible locations hosting a film festival' +
-                '* help'
+                '* find [genres,] [location]: Finds film festivals matching the given genres and location\n' +
+                '* list genres: Lists all known film genres associated with a film festival\n' +
+                '* list locations: Lists all possible locations hosting a film festival\n' +
+                '* help\n'
         });
     });
 
-    // match any one of set of mixed patterns like a string, a regular expression
-    controller.hears(['allcaps', new RegExp(/^[A-Z\s]+$/)], ['message', 'direct_message'], async function (bot, message) {
-        await bot.reply(message, { text: 'I HEARD ALL CAPS!' });
+    // find festivals
+    controller.hears(new RegExp(/\bfind\b/), ['message', 'direct_message'], async function (bot, message) {
+        await bot.reply(message, { text: findCommand(message.text) });
     });
 
 }

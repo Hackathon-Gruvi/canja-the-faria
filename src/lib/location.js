@@ -1,7 +1,7 @@
 const axios = require('axios');
 
 
-export const getLocation = async () => {
+const getLocation = async () => {
   const locationData = await axios.get('http://ip-api.com/json');
 
   console.log(locationData);
@@ -12,3 +12,7 @@ export const getLocation = async () => {
     city: locationData.city
   };
 }
+
+module.exports = {
+  getLocation
+};
