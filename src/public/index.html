@@ -1,10 +1,11 @@
 <html>
 
 <head>
-  <title>Botkit Anywhere</title>
+  <title>Faria's Festival Finder</title>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/4.0.10/handlebars.min.js"></script>
   <script src="https://cdn.rawgit.com/showdownjs/showdown/1.7.4/dist/showdown.min.js"></script>
   <link rel="stylesheet" href="/css/styles.css" />
+  <link rel="stylesheet" href="path/to/font-awesome/css/font-awesome.min.css">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 
@@ -19,12 +20,20 @@
         Offline! Reload to reconnect.
       </div>
       <div>
-        <img src="https://i.imgur.com/s09Rmeq.jpg"> 
+        <img src="https://i.imgur.com/MXasBoM.jpg">
       </div>
       <div id="input_box">
         <form onsubmit="Botkit.send(Botkit.input.value, event)">
           <input type="text" autocomplete="off" id="messenger_input" placeholder="Type here..." />
-          <button type="submit">Send</button>
+          <button type="submit">
+            <svg width="33" height="32" viewBox="0 0 33 32" fill="none" xmlns="http://www.w3.org/2000/svg%22%3E">
+              <circle cx=" 13.8779" cy="14.4593" r="10.5598" transform="rotate(-97.6907 13.8779 14.4593)"
+                stroke="#FF7C34" stroke-width="3" />
+              <path
+                d="M29.7265 28.8013C30.3568 29.339 31.3035 29.264 31.8412 28.6338C32.3789 28.0036 32.3039 27.0568 31.6737 26.5191L29.7265 28.8013ZM21.9945 22.2043L29.7265 28.8013L31.6737 26.5191L23.9417 19.9221L21.9945 22.2043Z"
+                fill="#FF7C34" />
+            </svg>
+          </button>
         </form>
       </div>
       <section>

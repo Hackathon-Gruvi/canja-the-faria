@@ -8,12 +8,13 @@ html {
   margin: 0;
   padding: 0;
   font-size: 18px;
-  background-color: #FFF;
+  background-color: #2d2d2d;
   font-family: "helvetica", sans-serif;
 }
 
 .wrapper {
   position: relative;
+  background-color: #2d2d2d;
   max-width: 1000px;
   margin: 0 auto;
 }
@@ -40,12 +41,13 @@ img {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  margin-top: 100px;
+  margin-top: 50px;
 }
 
 #input_box {
-  border: 2px solid #CCC;
-  margin-top: 15%;
+  background-color: #4a4a4a;
+  border-radius: 5px;
+  margin-top: 5%;
   text-align: center;
 }
 
@@ -111,6 +113,7 @@ a.button:hover {
 /* chat client */
 #message_window {
   background: #FFFFFF;
+  background-color: #2d2d2d;
   /*height: 500px;
   width: 320px;*/
   height: 100%;
@@ -156,8 +159,8 @@ a.button:hover {
   top: 2px;
 }
 #message_window section {
-  flex-grow: 1;
-  flex-direction: column-reverse;
+  flex-grow: 5;
+  flex-direction: column;
   display: flex;
   overflow-y: auto;
 }
@@ -166,16 +169,19 @@ a.button:hover {
   clear: both;
 }
 #input_box {
-  border-top: 1px solid #CCC;
+  background-color: #4a4a4a;
   padding: 0.25rem;
 }
 #input_box input[type=text] {
+  background-color: #4a4a4a;
+  color: #fefefe;
   flex-grow: 1;
   font-size: 1.25rem;
   outline: none;
   border: 0;
 }
 #input_box button {
+  background-color: #4a4a4a;
   width: 50px;
   background: none;
   border: 0;
@@ -194,27 +200,21 @@ a.button:hover {
 #message_window .message {
   font-size: 14px;
   padding: 0.5rem;
-  background: #F0F0F0;
-  color: #333;
+  background: #cecece;
+  color: #0f0f0f;
   border-radius: 5px;
   width: auto;
   display: inline-block;
   max-width: 75%;
 }
-#message_window .file_attachment {
-  background: #F0F0F0;
-  color: #333;
-  border-radius: 5px;
-  display: inline-block;
-  max-width: 75%;
-}
-#message_window .file_attachment img {
-  max-width: 100%;
-  display: block;
+#message_window .message a {
+  color: #0f0f0f;
+  /* text-decoration: none; */
+  cursor: pointer;
 }
 #message_window .button_message {
   margin: 1rem 0;
-  border-radius: 4px;
+  border-radius: 5px;
   border-color: orange;
   border-style: solid;
   color: orange;
@@ -226,6 +226,7 @@ a.button:hover {
   display: block;
 }
 #message_window .message p {
+  text-decoration: none;
   margin-top: 0;
   margin-bottom: 0.5rem;
 }
@@ -234,8 +235,8 @@ a.button:hover {
 }
 #message_window .message.outgoing {
   float: right;
-  background: #a795ef;
-  color: white;
+  background: #ff9357;
+  color: #fefefe;
 }
 #message_window #message_replies {
   text-align: center;
@@ -254,20 +255,6 @@ a.button:hover {
   margin: 0.5rem;
   margin-left: 0;
 }
-#message_window #message_replies a {
-  text-decoration: none;
-  display: block;
-  border: 1px solid #a795ef;
-  color: #a795ef;
-  border-radius: 16px;
-  padding: 0.25rem 1rem;
-  font-size: 14px;
-  cursor: pointer;
-}
-#message_window #message_replies a:hover {
-  background: #a795ef;
-  color: #FFF;
-}
 
 /* typing indicator CSS based on code by Joseph Fusco -> https://codepen.io/fusco/pen/XbpaYv */
 .typing-indicator {
@@ -282,7 +269,7 @@ a.button:hover {
   margin: 0 1px;
   background-color: #333;
   display: block;
-  border-radius: 50%;
+  border-radius: 5px;
   opacity: 0.4;
 }
 .typing-indicator span:nth-of-type(1) {
