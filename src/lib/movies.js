@@ -5,7 +5,8 @@ const findFestival = (genres) => {
 
     const results = database.filter((festival) => {
         for (let i in keywords) {
-            if (festival.notes.includes(keywords[i])) {
+            word = keywords[i];
+            if (festival.notes.includes(word) || festival.categories.includes(word)) {
                 return true;
             }
         };
