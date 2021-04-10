@@ -4,14 +4,20 @@ const findFestival = (genres) => {
     const keywords = genres.split(",");
 
     const results = database.filter((festival) => {
+        const totalGenres = [];
         for (let i in keywords) {
-            word = keywords[i];
+            word = keywords[i].replace("-", " ");
             if (festival.notes.includes(word) || festival.categories.includes(word)) {
-                return true;
+                totalGenres.push(word);
             }
         };
 
-        return false;
+        if (totalGenres.length === keywords.length) {
+            return true;
+        }
+        else {
+            return false;
+        }
     });
 
     return results;
