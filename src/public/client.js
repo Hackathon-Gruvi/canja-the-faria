@@ -38,7 +38,7 @@ var Botkit = {
                 if (xmlhttp.readyState == XMLHttpRequest.DONE) {
                     if (xmlhttp.status == 200) {
                         var response = xmlhttp.responseText;
-                        if (response !='') {
+                        if (response != '') {
                             var message = null;
                             try {
                                 message = JSON.parse(response);
@@ -86,6 +86,7 @@ var Botkit = {
         this.input.value = '';
 
         this.trigger('sent', message);
+
 
         return false;
     },
@@ -300,7 +301,6 @@ var Botkit = {
         }
     },
     sendEvent: function (event) {
-
         if (this.parent_window) {
             this.parent_window.postMessage(event, '*');
         }
@@ -391,7 +391,8 @@ var Botkit = {
 
             console.log('RECEIVED MESSAGE', message);
             that.renderMessage(message);
-
+            const section = document.querySelector('#message_section');
+            section.scroll(0, section.scrollHeight);
         });
 
         that.on('message', function (message) {
