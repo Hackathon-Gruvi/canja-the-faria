@@ -74,25 +74,6 @@ $human_message_text: white;
     }
   }
 
-  footer {
-      border-top: 1px solid #CCC;
-      padding: 0.25rem;
-      input[type="text"] {
-          flex-grow: 1;
-          font-size: 1.25rem;
-          outline: none;
-          border: none;
-      }
-      button {
-         width: 50px;
-         background: none;
-         border: 0;
-         cursor: pointer;
-         color: blue;
-         font-weight: bold;
-     }
-  }
-
   form {
       display: flex;
       margin: 0;
@@ -136,7 +117,6 @@ $human_message_text: white;
       border-color: $action_color;
       border-style: solid;
       color: $action_color;
-      border-width: 1px;
       padding: 0.25rem 1rem;
       text-decoration: none;
       text-align: center;
