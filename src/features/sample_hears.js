@@ -24,6 +24,14 @@ module.exports = function (controller) {
         await bot.reply(message, { text: 'Canja the Faria movie festival will be happening right now' });
     });
 
+    // use a regular expression to match the text of the message
+    controller.hears(new RegExp(/\bhelp\b/), ['message', 'direct_message'], async function (bot, message) {
+        await bot.reply(message, {
+            text: 'List of commands:\n' +
+                '* find <genre>[,<genre>] <location>' +
+        });
+    });
+
     // match any one of set of mixed patterns like a string, a regular expression
     controller.hears(['allcaps', new RegExp(/^[A-Z\s]+$/)], ['message', 'direct_message'], async function (bot, message) {
         await bot.reply(message, { text: 'I HEARD ALL CAPS!' });
