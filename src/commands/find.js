@@ -1,4 +1,5 @@
 const { findFestival } = require('../lib/movies');
+const { filterLocation } = require('../lib/location');
 
 const replyFind = (festivals) => {
     let replyText = "Search Results:\n";
@@ -10,12 +11,16 @@ const replyFind = (festivals) => {
     return replyText;
 }
 
-const findCommand = (message) => {
+const findCommand = async (message) => {
     const arguments = message.split(" ");
     const genres = arguments[1];
     const location = arguments[2];
 
-    const festivals = findFestival(genres);
+    let festivals = findFestival(genres);
+
+    if (location != undefined) {
+        festivals = await filterLocation(festivals, location);
+    }
 
     return replyFind(festivals);
 };

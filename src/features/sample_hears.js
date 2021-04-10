@@ -30,7 +30,7 @@ module.exports = function (controller) {
 
     // find festivals
     controller.hears(new RegExp(/\bfind\b/), ['message', 'direct_message'], async function (bot, message) {
-        await bot.reply(message, { text: findCommand(message.text) });
+        await bot.reply(message, { text: await findCommand(message.text) });
     });
 
 }
