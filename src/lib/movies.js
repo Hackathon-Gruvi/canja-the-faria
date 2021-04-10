@@ -1,7 +1,7 @@
 const database = require('../res/database.json');
 
 const findFestival = (genres) => {
-    const keywords = genres.split(",");
+    const keywords = genres.split(", ");
 
     const results = database.filter((festival) => {
         const totalGenres = [];
@@ -23,6 +23,21 @@ const findFestival = (genres) => {
     return results;
 };
 
+const listLocations = () => {
+    const locations = [];
+
+    database.forEach((festival) => {
+        const location = `${festival.city}, ${festival.country}`;
+
+        if (!locations.includes(location)) {
+            locations.push(location);
+        }
+    });
+
+    return locations;
+}
+
 module.exports = {
-    findFestival
+    findFestival,
+    listLocations
 };

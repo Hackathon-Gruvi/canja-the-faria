@@ -1,4 +1,4 @@
-['action',
+const genreKeywords = ['action',
     'adventure',
     'comedy',
     'documentary',
@@ -10,3 +10,7 @@
     'romance',
     'thriller'
 ];
+
+module.exports = {
+    genreKeywords
+};

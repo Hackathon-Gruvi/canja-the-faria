@@ -1,4 +1,5 @@
 const { findCommand } = require('../commands/find');
+const { listCommand } = require('../commands/list');
 
 module.exports = function (controller) {
 
@@ -31,6 +32,11 @@ module.exports = function (controller) {
     // find festivals
     controller.hears(new RegExp(/\bfind\b/), ['message', 'direct_message'], async function (bot, message) {
         await bot.reply(message, { text: await findCommand(message.text) });
+    });
+
+    // List Genres or Locations
+    controller.hears(new RegExp(/\blist\b/), ['message', 'direct_message'], async function (bot, message) {
+        await bot.reply(message, { text: await listCommand(message.text) });
     });
 
 }
